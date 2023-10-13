@@ -1,0 +1,58 @@
+.sectionHead {
+    height: 90px;
+    background-color: blue;
+}
+
+.reportWell {
+    height: 100%;
+    padding-top: 10px;
+}
+
+.reportWell h2,
+h3 {
+    text-align: center;
+    font-family: Acme;
+    letter-spacing: 2px;
+    color: #2c37a0;
+}
+
+.reportWell .well {
+    background-color: transparent;
+    border-radius: 0px;
+    border: 1px solid #2c37a0;
+    
+}
+
+.reportWell .well h4 {
+    text-align: left;
+    font-family: times new roman;
+   
+  
+    color: #2c37a0;
+
+}
+
+.reportWell h5 {
+    text-align: left;
+    font-family: Acme;
+    letter-spacing: 2px;
+    color: #2c37a0;
+    padding-left: 30px;
+}
+
+.reportWell .well h5:before {
+
+    counter-increment: my-sec-counter;
+    content: ""counter(my-sec-counter) ". ";
+}
+ @media screen and (max-width: 992px) 
+ {
+	.reportWell h2,
+h3 {
+    text-align: center;
+    font-family: Acme;
+    letter-spacing: 2px;
+    color: #2c37a0;
+    font-size: 16px;
+}	
+ }

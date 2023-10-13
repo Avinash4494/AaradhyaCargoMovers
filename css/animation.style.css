@@ -1,0 +1,49 @@
+.topImageDesign {
+  position: relative;
+  margin-left: -20px;
+  animation: topImageDesign 1s;
+}
+
+.topImageDesign {animation-timing-function: linear;}
+
+@keyframes topImageDesign {
+  from {left: -100px;}
+  to {left: 0px;}
+}
+.topImag {
+  position: relative;
+  margin-left: 0px;
+  animation: topImag 1s;
+}
+
+.topImag {animation-timing-function: linear;}
+
+@keyframes topImag {
+  from {left: -100px;}
+  to {left: 0px;}
+}
+
+.animateComp{
+  position: relative;
+  margin-left: -20px;
+  animation: sectionAboutHead 1s;
+}
+
+.animateComp {animation-timing-function: linear;}
+
+@keyframes sectionAboutHead {
+  from {left: -100px;}
+  to {left: 0px;}
+}
+
+.sectionComponentFinder
+{
+    position: relative;
+  animation: sectionComponentFinder 1s;  
+}
+.sectionComponentFinder {animation-timing-function: linear;}
+
+@keyframes sectionComponentFinder {
+  from {right: -200px;}
+  to {right: 0px;}
+}

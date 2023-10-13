@@ -1,0 +1,17 @@
+<html>
+	<title></title>
+	<head>
+		
+	</head>
+	<body>
+		<h1 id="total"></h1>
+	</body>
+</html>
+<script>
+	function kFormatter() {
+		var num=270
+    return Math.abs(num) > 999 ? Math.sign(num)*((Math.abs(num)/1000).toFixed(1)) + 'k' : Math.sign(num)*Math.abs(num)
+}
+    
+console.log(kFormatter()); // 1.2k
+</script>

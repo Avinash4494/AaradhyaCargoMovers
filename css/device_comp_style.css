@@ -1,0 +1,520 @@
+@media screen and (max-width: 992px) {
+
+    .navbar-toggle {
+        margin-top: 15px;
+        background-color: transparent;
+    }
+
+    img.navbarLogo {
+        height: 50px;
+        width: 150px;
+        margin-left: -50px;
+    }
+
+    .topImageDesign {
+        padding-left: 10px;
+    }
+
+    .topImageDesign h4 {
+        font-size: 1em;
+        padding-top: 300px;
+        line-height: 1.2em;
+
+    }
+
+    .topImageDesign h2 {
+        font-size: 1em;
+    }
+
+    .topImageDesign p {
+        font-size: 0.8em;
+        line-height: 1.2em;
+        left: 2px;
+        color: white;
+        font-family: Asap;
+    }
+
+    .emptyWell {
+        background-color: blue;
+        display: none;
+    }
+
+    .carouselComponent {
+        height: 100%;
+        background-color: transparent;
+    }
+
+    .sliderButton {
+        margin-top: -100px;
+        padding-bottom: 20px;
+    }
+
+    .sliderButton .universalButton {
+        font-size: 0.8em;
+    }
+    #sectionMainHead
+    {
+    	height: 100%;
+    }
+ 
+    .info_well .well {
+        
+        padding: 00px;
+        border: none;
+        margin-top: -10px;
+        border-radius: 0px;
+        border:none;
+    }
+     .waveHome
+    {
+    	margin-top: 100px;
+    }
+
+    .info_well .well h2 {
+        font-size: 0.8em;
+        margin-top: -10px;
+    }
+
+    .info_well .well p {
+        font-size: 0.8em;
+    }
+
+
+    #sectionTitle h2 {
+        text-align: center;
+        font-family: Asap;
+        font-weight: bold;
+        font-size: 1em;
+    }
+    .item
+    {
+    	background-color: red;
+    	height:230px;
+    }
+        #sectionTitle p {
+        padding: 10px;
+        line-height: 15px;
+        font-size: 0.7em;
+    }
+    .servicesComponent h2 {
+        font-size: 1.1em;
+    }
+    .servicesComponent h5 {
+        font-size: 1em;
+        letter-spacing: 1px;
+        margin-top: 10px;
+        line-height: 20px;
+    }
+
+    .servicesComponent span {
+        color: white;
+    }
+
+    .servicesComponent h4 {
+        font-size: 1em;
+        letter-spacing: 0px;
+    }
+
+    .widgetRecords {
+        margin-top: 0px;
+
+    }
+    .widgetRecords h1 {
+        font-size: 1em;
+        text-align: center;
+        margin-top: -50px;
+        color: red;
+        padding: 0px;
+        margin-bottom: -5px;
+    }
+
+    .widgetRecords h4 {
+        font-size: 0.8em;
+        line-height: 10px;
+        color: red;
+        padding: 0px;
+        text-align: center;
+    }
+
+    .widgetRecords {
+        background-color: white;
+    }
+
+    .widgetRecordBox3 {
+        margin-top: -30px;
+    }
+
+    .widgetRecordBox4 {
+        margin-top: -30px;
+    }
+     #OurSpeicalServices {
+        background-color: red;
+        height: 100%;
+        padding-top: 20px;
+        padding-bottom: 5px;
+
+    }
+
+    #OurSpeicalServices .well {
+        background-color: transparent;
+        border-radius: 0px;
+        padding: 0px 5px;
+        border: 1px solid white;
+        transition: 0.4s;
+    }
+
+    .widgetRectangle h3 {
+        font-size: 1em;
+    }
+
+    .widgetIcons i {
+        font-size: 3em;
+        margin-top: -10px;
+    }
+
+    #sectionWhyChooseUs {
+        padding: 00px;
+    }
+
+    .widgetChooseLeft {
+        padding: 0px;
+    }
+
+    .widgetChooseLeft h2 {
+        font-size: 1em;
+    }
+
+    .widgetGlow h3 {
+        font-size: 1em;
+        font-weight: bold;
+
+    }
+
+    .widgetChooseIcon {
+        height: 50px;
+        width: 50px;
+        transition: 0.5s;
+        border-radius: 50%;
+        margin-top: 20px;
+        border: 1px solid red;
+    }
+
+    .widgetChooseIcon i {
+        font-size: 1.3em;
+        padding: 15px 00px 00px 10px;
+        color: red;
+        transition: 0.5s;
+    }
+
+    .widgetVertical {
+        height: 45px;
+        width: 2px;
+        background-color: red;
+        margin-left: 25px;
+        margin-top: -25px;
+
+    }
+       .widgetChooseRight {
+        padding: 5px;
+    }
+
+    .widgetChooseRight h2 {
+        font-size: 1em;
+    }
+
+    .widgetQuote label {
+        font-size: 0.8em;
+        margin-bottom: -15px;
+    }
+
+    .widgetQuote input {
+        margin-bottom: -10px;
+    }
+
+    .widgetQuote select {
+        margin-bottom: -10px;
+    }
+
+    .sect {
+        height: 100%;
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        padding: 0px;
+        padding-top: 20px;
+        background-attachment: fixed;
+    }
+
+    #WhatUserSays {
+        padding: 0px;
+    }
+
+    .carouselWell .well {
+        padding: 30px;
+        background-color: rgba(255, 255, 255, 0.3);
+        border-radius: 0px;
+        border: none;
+
+    }
+
+    .carouselWell .well span {
+        font-size: 3em;
+        margin-right: 35px;
+        position: absolute;
+        color: white;
+
+    }
+
+    .carouselWell .well p {
+        font-size: 0.8em;
+        line-height: 22px;
+        text-align: center;
+    }
+
+    .carouselWell .well h3 {
+        font-size: 0.9em;
+        text-align: right;
+        line-height: 10px;
+    }
+
+    .carouselWell .well h5 {
+        font-size: 0.7em;
+        text-align: right;
+
+    }
+
+    #FeaturedNews {
+        padding: 00px;
+    }
+       .widgetNews {
+        background-color: grey;
+    }
+
+    .carousel-inner {
+        margin-top: -30px;
+    }
+
+    .widgetNews h3 {
+        font-size: 1em;
+        margin: 0px;
+    }
+
+    .widgetNews h4 {
+        font-size: 1em;
+    }
+
+    .widgetNews .universalButtonRed {
+        font-size: 0.8em;
+    }
+/*FOOTER*/
+    #JoinUsComp {
+        padding: 0px;
+    }
+
+    #JoinUsComp h3 {
+        font-size: 0.9em;
+        line-height: 15px;
+        padding-bottom: 30px;
+    }
+
+    .info_well_footer .well {
+        padding: 0px;
+        background-color: red;
+        margin-top: -50px;
+        border: none;
+    }
+
+    .info_well_footer .well h2 {
+        font-size: 0.9em;
+        margin: 0px;
+    }
+
+    .info_well_footer .well p {
+        font-size: 0.8em;
+        padding: 0px;
+        margin: 0px;
+    }
+
+    .widgetInfoBox4 {
+
+        margin-top: -30px;
+        text-align: center;
+    }
+
+    .widgetInfoBox2 {
+
+        margin-top: -20px;
+        text-align: center;
+    }
+
+    .navigation h4 {
+        font-size: 1em;
+    }
+
+    .navigation h3 {
+        font-size: 1em;
+
+    }
+
+    .icons {
+
+        margin-top: -20px;
+    }
+
+    .move_up i {
+        margin-top: -55px;
+    }
+
+    .footer {
+        margin-top: -20px;
+        margin-bottom: 20px;
+    }
+
+    .footer h5 {
+        font-size: 0.8em;
+        line-height: 15px;
+    }
+
+    .footer h6 {
+        color: white;
+        letter-spacing: 2px;
+        margin-top: -5px;
+        font-size: 0.7em;
+        text-align: center;
+    }
+
+    .footer h6 a {
+        text-decoration: none;
+        color: white;
+
+    }
+
+    /*INDEX HOME*/
+    /*ABOUT US*/
+    .aboutHeader {
+        background-color: red;
+        height: 50px;
+    }
+
+    .sectionTitleHead .well {
+        padding: 10px;
+        color: white;
+        padding-bottom: 0px;
+    }
+
+    .topImag h2 {
+        text-align: left;
+        font-size: 1.5em;
+        color: white;
+    }
+.animateComp h2{
+	text-align: center;
+	font-size: 1.2em;
+	padding: 0px;
+	margin-top: 00px;
+}
+.animateComp h4{
+	text-align: center;
+	font-size: 1em;
+	margin-top: -10px;
+}
+#aboutUsComp {
+    padding: 0px;
+}
+#sectionTitleLeft h2 {
+    font-size: 1em;
+    margin: 0px;
+}
+.profile_img 
+{
+	margin-top: -15px;
+	text-align: center;
+}
+#aboutUsComp p {
+    line-height: 20px;
+    font-size: 1em;
+    text-align: justify;
+}
+#aboutUsComp span {
+    line-height: 20px;
+    font-size: 1.6em;
+    text-align: justify;
+}
+#OurValuesComp {
+    padding-bottom: 00px;
+}
+.OurVisionWell p {
+ 
+    text-align: justify;
+    background-color: white;
+}
+.team {
+    height: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 60px 0px;
+    background-attachment: fixed;
+}
+
+.teamOne {
+    padding:25px;
+}
+.profileCardTeam .well
+{
+  background-color: transparent;
+  padding: 0px; 
+  border:none;
+  padding-bottom: 10px; 
+}
+.profileImage
+{
+    overflow: hidden;
+   height: 300px;
+}
+
+.profileText h3
+{
+    margin-top: 5px;
+    font-size: 1.2em;
+    font-weight: bold;
+}
+.profileText h5
+{
+    margin-top: -5px;
+    font-size: 1em;
+}
+.widgetChooseLeft {
+    padding: 0px;
+}
+.widgetGlow2
+{
+background-color: red;
+margin:10px 0px;
+color:white;
+}
+/*SERVICES*/
+#OurExpertise {
+    padding: 00px;
+}
+.expertiseComp i
+{
+font-size: 4em;
+margin-top: -85px;
+margin-left: 0px;
+position: absolute;
+opacity: 0.7;
+}
+.widgetContactText h3
+{
+	font-size: 1.2em;
+}
+.pagination h4
+{
+	font-size: 1em;
+}
+/*GALLERY*/
+#sectionGallery {
+    padding: 0px;
+}
+}

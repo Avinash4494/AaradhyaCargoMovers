@@ -1,0 +1,140 @@
+/*paggination*/
+.pagination {
+    position: relative;
+    padding-top: 10px;
+    margin-bottom: -20px;
+}
+.pagination a {
+    color: white;
+    float: left;
+    font-size: 1em;
+    padding: 4px 16px;
+    text-decoration: none;
+    background-color: #0E9B16 ;
+    border: 1px solid #0E9B16 ;
+    margin-left: 5px;
+    font-weight: bold;
+    margin-right: 5px; font-family: Asap;
+
+}
+
+.pagination h4 {
+    font-family: Asap;
+    float: right;
+    font-size: 0.9em;
+    color: #0E9B16 ;
+    text-decoration: none;
+}
+
+.pagination p {
+    color: white;
+    font-size: 0.5em;
+}
+
+.pagination i {
+    color: white;
+}
+
+.pagination a.active {
+    background-color: white;
+    color: black;
+    transition: 0.3s;
+    border: 1px solid #0E9B16 
+}
+
+.pagination a:hover:not(.active) {
+    background-color: #0E9B16 ;
+    color: white;
+    transition: 0.5s;
+}
+
+
+.pagination a:first-child {
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+
+}
+
+.pagination a:last-child {
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+/*paggination*/
+
+
+/*navigator_success_msg*/
+#commonProcess {
+    padding-top: 10%;
+    font-family: Athiti;
+    font-weight: bold;
+}
+
+#commonProcess h4 {
+
+    text-align: center;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+#commonProcess h1,
+h3 {
+
+    text-align: center;
+    font-size: 2em;
+    font-weight: bold;
+}
+
+.bigBox {
+    background-color: transparent;
+    height: 625px;
+    padding-top: 2%;
+}
+
+.bigBox .well {
+    background-color: #0E9B16 ;
+    padding: 5px;
+    border: none;
+}
+
+.bigBox .well h5 {
+    color: white;
+    font-family: Athiti;
+    font-weight: bold;
+    font-size: 1.1em;
+    letter-spacing: 1px;
+    text-align: center;
+}
+
+.iconComponent img {
+    height: 60px;
+    width: 70px;
+    margin-left: 50px;
+    margin-bottom: 20px;
+}
+
+/*navigator_success_msg*/
+
+/*common_icon_heading*/
+#commonIcons {
+ margin: 00px;
+}
+
+#commonIcons h3 {
+    color: #0E9B16 ;
+    margin-top: 5px;
+    font-size: 1.7em;
+    font-family: Athiti;
+}
+ 
+/*common_icon_heading*/
+
+/*action_icon*/
+
+.actionIcon a {}
+
+.actionIcon i {
+    font-size: 1em;
+    color:white;
+}
+/*action_icon*/

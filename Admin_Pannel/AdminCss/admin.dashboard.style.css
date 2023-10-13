@@ -1,0 +1,931 @@
+body {
+    font-family: Asap;
+}
+
+.sectionHiddens {
+    padding-bottom: 70px;
+    background-color: transparent;
+}
+.sectionHiddenHome {
+    padding-bottom: 50px;
+    background-color: transparent;
+}
+.sectionHiddensEdit {
+    padding-bottom: 0px;
+    background-color: transparent;
+}
+
+span#nameString {
+    border-radius: 50%;
+    background-color: red;
+    color: white;
+    padding: 9px;
+}
+
+span#nameStringOther {
+    border-radius: 50%;
+    background-color: red;
+    color: white;
+    padding: 9px;
+}
+
+.dashIntroDash {
+    text-align: center;
+     
+   
+}
+.dashIntroDash h4 {
+    font-size: 1.1em;
+}
+.dashIntro {
+    text-align: center;
+    padding-bottom: 15px;
+    margin-top: -10px;
+}
+.dashIntro h4 {
+    font-size: 1.1em;
+}
+#show_time {
+    font-size: 1em;
+    color: red;
+}
+
+.shortProfile .well {
+    padding: 10px;
+    background-color: red;
+    border: none;
+    color: white;
+    margin-top: 2px;
+    text-align: center;
+    margin-bottom: 25px;
+    margin-top: 22px;
+}
+ 
+.shortProfile .well img {
+    border-radius: 50%;
+    height: 110px;
+    width: 110px;
+     
+    margin-left: 27px;
+}
+.shortProfileCourier 
+{
+    padding-top: 0px;
+     
+    color: white;
+}
+.shortProfileCourier .well {
+    padding-top: 40px;
+    padding-bottom: 50px;
+    background-color: red;
+    border: none;
+    margin-top: 2px;
+    text-align: center;
+    margin-bottom: 25px;
+    margin-top: 22px;
+}
+ 
+.shortProfileCourier .well img {
+    border-radius: 50%;
+    height: 130px;
+    width: 130px;
+    
+    margin-left: 22px;
+    margin-bottom: 20px;
+}
+
+.shortProfileCareers 
+{
+    padding-top: 0px;
+     
+    color: white;
+}
+.shortProfileCareers .well {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background-color: red;
+    border: none;
+    margin-top: 2px;
+    text-align: center;
+    margin-bottom: 25px;
+    margin-top: 22px;
+}
+ 
+.shortProfileCareers .well img {
+    border-radius: 50%;
+    height: 130px;
+    width: 130px;
+    margin-left: 22px;
+    margin-bottom: 20px;
+}
+
+.shortProfileOther 
+{
+    padding-top: 0px;
+     
+    color: white;
+}
+.shortProfileOther .well {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: blue;
+    border: none;
+    margin-top: 2px;
+    text-align: center;
+    margin-bottom: 05px;
+    margin-top: 0px;
+}
+ 
+.shortProfileOther .well img {
+    border-radius: 50%;
+    height: 130px;
+    width: 130px;
+    
+    margin-left: 22px;
+    margin-bottom: 0px;
+}
+  .leftPannelAdmin
+{
+   
+    margin-left: 10px;
+}
+.leftPannel
+{  
+    position: fixed;
+}
+
+
+.sideNavWellAdmin .well {
+    background-color: red;
+    padding: 0px 12px;
+    position: fixed;
+    margin-top: -5px;
+}
+
+.sideNavWellAdmin .well span {
+    float: right;
+}
+
+.sideNavWellAdmin .well h4 {
+    color: white;
+    font-size: 1.1em;
+}
+
+.sideNavWellAdmin .well a {
+    color: white;
+
+}
+
+.sideNavWellProfile .well {
+    background-color: red;
+    padding: 0px 20px;
+    position: fixed;
+    margin-top: -5px;
+}
+
+.sideNavWellProfile .well span {
+    float: right;
+}
+
+.sideNavWellProfile .well h4 {
+    color: white;
+    font-size: 1.1em;
+}
+
+.sideNavWellProfile .well a {
+    color: white;
+
+}
+.sideNavWellAccounts .well {
+    background-color: red;
+    padding: 0px 20px;
+    position: fixed;
+}
+
+.sideNavWellAccounts .well span {
+    float: right;
+}
+
+.sideNavWellAccounts .well h4 {
+    color: white;
+    font-size: 1.1em;
+}
+
+.sideNavWellAccounts .well a {
+    color: white;
+
+}
+
+.sideNavWellCourier .well {
+    background-color: red;
+    padding: 0px 35px;
+    position: fixed;
+}
+
+.sideNavWellCourier .well span {
+    float: right;
+}
+
+.sideNavWellCourier .well h4 {
+    color: white;
+    font-size: 1.1em;
+}
+
+.sideNavWellCourier .well a {
+    color: white;
+
+}
+
+.sideNavWellFeedback .well {
+    background-color: red;
+    padding: 0px 7px;
+    position: fixed;
+    margin-top: -10px;
+}
+
+.sideNavWellFeedback .well span {
+    float: right;
+}
+
+.sideNavWellFeedback .well h4 {
+    color: white;
+    font-size: 1.1em;
+}
+
+.sideNavWellFeedback .well a {
+    color: white;
+
+}
+
+.sideNavWellBlogs .well {
+    background-color: red;
+    padding: 0px 7px;
+    position: fixed;
+    margin-top: -10px;
+}
+
+.sideNavWellBlogs .well span {
+    float: right;
+}
+
+.sideNavWellBlogs .well h4 {
+    color: white;
+    font-size: 1.1em;
+}
+
+.sideNavWellBlogs .well a {
+    color: white;
+
+}
+
+.sideNavWellCareers .well {
+    background-color: red;
+    padding: 0px 40px;
+    position: fixed;
+}
+
+.sideNavWellCareers .well span {
+    float: right;
+}
+
+.sideNavWellCareers .well h4 {
+    color: white;
+    font-size: 1.1em;
+}
+
+.sideNavWellCareers .well a {
+    color: white;
+
+}
+
+.rightPannel {
+    background-color: transparent;
+    padding: 10px 10px 0px 10px;
+
+}
+
+.widgetsBoxApp .well {
+    background-color: red;
+    border: 2px solid white;
+    transition: 0.3s;
+    text-align: center;
+    color: white;
+}
+
+.widgetsBoxApp:hover .well {
+    background-color: red;
+    border: 2px solid white;
+    margin-top: -10px;
+    transition: 0.7s;
+}
+
+.widgetsCircleLeft:hover .well {
+    margin-left: -15px;
+    transition: 0.7s;
+}
+
+.widgetsCircleRight:hover .well {
+    margin-left: 15px;
+    transition: 0.7s;
+}
+
+.widgetCircleApp a {
+    color: red;
+    text-align: center;
+}
+
+.widgetsCircleLeft .well {
+    background-color: white;
+    border: 10px solid red;
+    transition: 0.3s;
+    border-radius: 50%;
+    height: 150px;
+    width: 150px;
+    margin-top: -10px;
+}
+
+.widgetsCircleRight .well {
+    background-color: white;
+    border: 10px solid red;
+    transition: 0.3s;
+    border-radius: 50%;
+    height: 150px;
+    width: 150px;
+     margin-top: -10px;
+}
+
+.widgetsCircleApp:hover a {
+    text-decoration: none;
+}
+
+.widgetsBoxAppLg .well {
+    background-color: white;
+    border: 2px solid red;
+    transition: 0.3s;
+    height: 308px;
+    color: red;
+    font-size: 0.9em;
+    padding: 10px;
+}
+
+.BoxLgContent h4 {
+    text-align: center;
+}
+
+.widgetsBoxAppLg .well i {
+    text-align: center;
+    color: red;
+}
+
+.table p {
+    padding: 1px;
+    margin-bottom: -5px;
+
+}
+
+.universalButton {
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 7px;
+    border-radius: 0px;
+    font-size: 1em;
+    width: 100%;
+    letter-spacing: 1px;
+    margin-top: 5px;
+    text-align: center;
+}
+.courierAddComponent {
+    margin: 0px 20px 0px 20px;
+    background-color: transparent;
+    margin-top: -15px;
+}
+.courierAddComponent h4
+{
+    text-align: left;
+    font-size: 1.2em;
+    padding-bottom: 10px;
+    text-decoration: underline;
+}
+.courierAddComponent input
+{
+    border-radius: 0px;
+    border:1px solid red;
+    padding: 10px;
+}
+.courierAddComponent select
+{
+    border-radius: 0px;
+    border:1px solid red;
+}
+.empty_well_edit
+{
+    padding-top: 20px;
+}
+.modal
+{
+    margin-top: 100px;
+}
+.modal-content
+{
+    height: 100%;
+    width: 550px;
+    padding: 0px;
+    background-color: white;
+    margin-left: 200px;
+}
+.modal-body img
+{
+    height: 100%;
+       
+    margin-top: -30px;
+}
+.universalButtonOpen {
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 3px;
+    border-radius: 0px;
+    font-size: 1em;
+    height: 30px;
+    width: 30px;
+    overflow: hidden;
+    border-radius: 50%;
+    letter-spacing: 1px;
+    position: absolute;
+    margin-top: -34px;
+    margin-left: 115px;
+    text-align: center;
+    font-family: Asap;
+}
+.universalButtonClose {
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 3px;
+    border-radius: 0px;
+    font-size: 1em;
+    float: right;
+    height: 25px;
+    width: 25px;
+    border-radius: 50%;
+    letter-spacing: 1px;
+    margin-bottom: -20px;
+    margin-top: -25px;
+    margin-right: -20px;
+    text-align: center;
+    font-family: Asap;
+}
+
+/*paggination*/
+.pagination {
+    
+    margin-left: 40px;
+
+    margin-top: 20px;
+}
+.pagination a {
+    color: white;
+    float: left;
+    font-size: 1em;
+    padding: 4px 16px;
+    text-decoration: none;
+    background-color: red;
+    border: 1px solid red;
+    margin-left: 5px;
+    font-weight: bold;
+    margin-right: 5px; 
+
+}
+
+.paginationCount h6 {
+    color: red;
+    float: left;
+    
+    font-size: 1em;
+    padding: 4px 16px;
+    text-decoration: none;
+    background-color: transparent;
+ 
+    margin-top: 20px;
+    margin-right: 5px;
+
+}
+
+.pagination p {
+    color: white;
+    font-size: 0.5em;
+}
+
+.pagination i {
+    color: white;
+}
+
+.pagination a.active {
+    background-color: white;
+    color: black;
+    transition: 0.3s;
+    border: 1px solid red;
+}
+
+.pagination a:hover:not(.active) {
+    background-color: red;
+    color: white;
+    transition: 0.5s;
+}
+
+
+.pagination a:first-child {
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+
+}
+
+.pagination a:last-child {
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+/*paggination*/
+/*Profile Portal*/
+.rightPannelProfile {
+    background-color: transparent;
+    padding: 0px 10px 0px 10px;
+    margin-top: -30px;
+
+}
+.rightPannelProfile h4{
+    padding: 10px 00px 10px 20px;
+    font-size: 1em;
+     
+    font-weight: bold;
+
+}
+.rightPannelCareer{
+    background-color: transparent;
+    padding: 0px 10px 0px 10px;
+    margin-top: 20px;
+
+}
+.rightPannelCareer h4{
+    padding: 10px 00px 10px 20px;
+    font-size: 1em;
+     
+    font-weight: bold;
+
+}
+.updateProfilePic
+{
+    padding-top: 35px;
+}
+
+.updateProfile .well {
+    padding: 10px;
+    background-color: transparent;
+    border: 1px solid transparent;
+    margin-top: 25px;
+    text-align: center;
+    margin-bottom: 17px;
+}
+
+.updateProfile .well img {
+    border-radius: 50%;
+    height: 120px;
+    border: 5px solid red;
+    width: 120px;
+}
+.rightPaggignation
+{
+    padding: 0px 20px 0px 20px;
+    margin-top: 20px;
+}
+.rightPaggignation h3 {
+    color: red;
+    text-align: left;
+    font-size: 1em;
+}
+
+.rightPaggignation h3 a {
+    color: black;
+    text-decoration: none;
+}
+     .reportDisplayComponent {
+        margin: 0px;
+    }
+
+    .reportDisplayComponent .well {
+        padding: 5px;
+        border: 1px solid red;
+        margin-top: -10px;
+        background-color: white;
+        box-shadow: 0px 0px 30px 6px rgba(225, 225, 225, 1);
+    }
+.accountDisplayComponent .well {
+    background-color: transparent;
+    padding: 15px;
+    padding-bottom: 15px;
+    border: none;
+    box-shadow: 0px 0px 30px 6px rgba(243, 234, 232, 0.7);
+}
+.profileDisplayComponent .well {
+    background-color: transparent;
+    padding: 15px;
+
+    padding-bottom: 15px;
+    border: none;
+    box-shadow: 0px 0px 30px 6px rgba(243, 234, 232, 0.7);
+}
+ 
+.profileDisplayComponent .well select {
+    border: 1px solid red;
+    margin-bottom: 3px;
+    border-radius: 0px;
+    height: 40px;
+}
+
+.profileDisplayComponent .well input {
+    border: 1px solid red;
+    margin-bottom: 3px;
+    border-radius: 0px;
+    padding: 15px;
+    height: 40px;
+}
+
+.profileDisplayComponent .well label {
+
+    color: black;
+    font-size: 0.9em;
+    letter-spacing: 1px;
+    padding-bottom: 10px;
+}
+.profileDisplayComponent .well h5 {
+
+    color: black;
+    font-size: 1em;
+        
+    letter-spacing: 1px;
+}
+.profileDisplayComponent .well h6 {
+
+    color: black;
+    font-size: 1em;
+    letter-spacing: 1px;
+}
+.profileDisplayComponent .well span
+{
+    color: red;
+}
+
+.input-group-addon {
+    
+    border: none;
+    border-radius: 0px;
+    height: 30px;
+    position: relative;
+}
+
+.input-group-addon i {
+    color: red;
+    padding: 0px;
+}
+
+.sectionHeadLeft {
+    margin-top: 20px;
+    color: red;
+    float: right;
+}
+
+.sectionHeadLeft h3 {
+    font-size: 2.3em;
+}
+
+.signButton {
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 5px;
+    border: 1px solid red;
+    margin-top: 2px;
+    border-radius: 5px;
+    font-size: 1.3em;
+    width: 100%;
+    text-align: center;
+}
+
+p#AllFields {
+    text-align: center;
+    color: white;
+    letter-spacing: 1px;
+}
+
+p#OkFields {
+    text-align: center;
+    color: green;
+    letter-spacing: 1px;
+}
+ 
+ 
+ .squareProfile  {
+ padding-top: 30px;
+}
+ 
+.squareProfile img {
+     
+    box-shadow: 0px 0px 30px 6px rgba(243, 234, 232, 0.7);
+    margin-left: 27px;
+}
+.profileDisplayComponent {
+    margin: 0px 20px 0px 20px;
+}
+.profileDisplayComponent .well{
+    background-color: transparent;
+
+}
+ 
+.profileDisplayComponent h4
+{
+ font-size: 1.1em;
+ 
+}
+.profileData {padding-top: 20px;}
+.profileData span i
+{
+    font-size: 0.8em;
+    color: red;
+}
+.updatePannelProfile {
+    
+
+
+}
+
+.updateComponent {
+    margin-top: 20px;
+    background-color: transparent;
+}
+
+.updateComponent .well {
+    background-color: transparent;
+    padding: 15px;
+
+    padding-bottom: 15px;
+    border: none;
+    box-shadow: 0px 0px 30px 6px rgba(243, 234, 232, 0.7);
+}
+
+.updateComponent .well h1 {
+    color: white;
+    text-align: center;
+    font-size: 1.5em;
+
+}
+
+.updateComponent .well select {
+    border: 1px solid white;
+    margin-bottom: 3px;
+    border-radius: 0px;
+    height: 40px;
+}
+
+.updateComponent .well input {
+    border: 1px solid white;
+    margin-bottom: 3px;
+    border-radius: 0px;
+    padding: 15px;
+    height: 40px;
+}
+
+.updateComponent .well label {
+
+    color: white;
+    font-size: 1em;
+    letter-spacing: 1px;
+}
+/*Profile Protal*/
+
+
+/*STATUS ONLINE*/
+#status {
+    margin-left: 5px;
+    margin-top: -62px;
+    position: relative;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+#status.online {
+    color: green;
+}
+
+#status.offline {
+    color: red;
+}
+
+#status.online::before,
+#status.offline::before {
+    width: 15px;
+    height: 15px;
+    content: "";
+    border-radius: 15px;
+    box-shadow: 0 0 8px;
+    position: absolute;
+    left: 20px;
+    top: 25px;
+}
+
+#status.online::before {
+    background: green;
+}
+
+#status.offline::before {
+    background: red;
+}
+
+/*STATUS ONLINE*/
+
+
+/*STATUS MESSAGE*/
+.bigBox {
+    background-color: transparent;
+    height: 625px;
+    padding-top: 2%;
+}
+
+.bigBox .well {
+    background-color: red;
+    padding: 5px;
+    border: none;
+}
+
+.bigBox .well h5 {
+    color: white;
+    font-weight: bold;
+    font-size: 1.1em;
+    letter-spacing: 1px;
+    text-align: center;
+}
+
+/*STATUS MESSAGE*/
+
+.quoteComponent .well
+{
+    background-color:white;
+    border:1px solid red ;
+    padding:10px;
+    border-radius: 0px;
+
+}
+
+.quoteComponent .well h5
+{
+    line-height: 15px;
+}
+.universalButtonDelete {
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 5px;
+    border-radius: 0px;
+    font-size: 1em;
+    width: 100%;
+    letter-spacing: 1px;
+    margin-top: 5px;
+    text-align: center;
+}
+.universalButtonView {
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 7px;
+    border-radius: 0px;
+    font-size: 1em;
+    width: 100%;
+    letter-spacing: 1px;
+    margin-top: -20px;
+    text-align: center;
+}
+.universalButtonCareer{
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+ 
+    font-size: 0.9em;
+    margin-top: 3px;
+    text-align: center;
+}
+
+/*APPLY NOW*/
+.universalButtonApplyNow {
+    background-color: red;
+    color: white;
+    border: none;
+    padding:10px;
+    border-radius: 0px;
+    font-size: 1em;
+    width: 100%;
+    letter-spacing: 1px;
+    margin-top: 35px;
+    text-align: center;
+}
+/*APPLY NOW*/

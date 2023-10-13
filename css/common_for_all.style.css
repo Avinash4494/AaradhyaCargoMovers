@@ -1,0 +1,88 @@
+    #add_courier
+  {
+    padding-top:20px;
+    height:100%;
+    color: #fff; 
+    padding-bottom: 20px;
+
+    background-color:#F7F7F7;
+    
+    
+ 
+  }
+   #add_courier h2
+   {
+    letter-spacing: 3px;
+    text-align: center;
+    color: #F90A03;
+    font-family: Acme;
+ 
+     
+   }
+    #add_courier h3
+   {
+    letter-spacing: 3px;
+    text-align:left;
+    color:  #F90A03;
+ 
+     
+   }
+     #add_courier h4
+   {
+    
+    text-align:justify;
+    color: #F90A03;
+    font-size: 16px;
+    padding:0px;
+  
+ 
+     
+   }
+    #add_courier p
+   {
+    letter-spacing: 1px;
+    text-align:justify;
+    font-size: 18px;
+    font-family:times new roman;
+    font-style:;
+   }
+   #add_courier h1
+   {
+    letter-spacing: 3px;
+    text-align: center;
+    font-family:rockwell; 
+   }
+   .ready_to_well .well
+  {
+    border-radius: 0px;
+    height: 100%;
+   border:1px solid #F90A03;
+   color: #F90A03;
+  
+  
+  }
+   
+  .ready_to_well .well a
+  {
+    color: orange;
+    text-decoration: none;
+  }
+  .ready_to_well .well label
+  {
+    letter-spacing: 1px;
+    text-align: center;
+    font-family: rockwell;
+    font-size: 16px;
+    color: #F90A03;
+}
+.ready_to_well .well input
+{
+  border-radius: 0px;
+  border:1px solid #F90A03;
+}
+.ready_to_well .well textarea
+{
+  border-radius: 0px;
+  border:1px solid #F90A03;
+}
+#add_courier .well i{color: #F90A03;}

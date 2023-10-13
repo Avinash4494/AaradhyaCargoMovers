@@ -1,0 +1,196 @@
+body{font-family: Asap;}
+#AuthSectionLogin {
+   background-image: url(../../image/a-7.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 625px;
+}
+.loginComponent{
+    margin-top: 140px;
+}
+.loginComponent .well {
+    background-color: red;
+   padding: 15px;
+   margin-top: -10px;
+   padding-bottom: 0px;
+    border:1px solid red ;
+    box-shadow: 0px 0px 30px 6px rgba(243, 234, 232, 0.5);
+}
+.RegisterComponent{
+    margin-top: 120px;
+}
+.RegisterComponent .well {
+    background-color: red;
+   padding: 15px;
+   margin-top: -10px;
+   padding-bottom: 0px;
+    border:1px solid red ;
+    box-shadow: 0px 0px 30px 6px rgba(243, 234, 232, 0.5);
+}
+
+#AuthSectionRegister {
+   background-image: url(../../image/a-7.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 625px;
+
+}
+#SectionCreateStudent {
+ 
+    padding-top: 1%; 
+}
+
+.sectionHead h2 {
+ 
+
+    font-weight: bold;
+    text-align: center;
+    color:white ;
+}
+
+.sectionHead h4 {
+ 
+    text-align: center;
+    color: white;
+}
+ 
+
+.HomeComponent .well {
+    background-color: white;
+   padding: 15px;
+   margin-top: -10px;
+   padding-bottom: 0px;
+    border:1px solid red  ;
+    box-shadow: 0px 0px 30px 6px rgba(243, 234, 232, 0.5);
+}
+.loginComponent .well h1 {
+     
+    text-align: center;
+    color: white;
+    font-size: 1.2em;
+    margin-top: -10px;
+}
+.loginComponent .well h4 {
+    
+   font-size: 1em;
+   color: white;
+}
+.RegisterComponent .well h4 {
+    
+   font-size: 1em;
+   color: white;
+   text-align: center;
+   padding-top: 20px;
+}
+.RegisterComponent .well h4 a {
+    color: white ;
+}
+
+.RegisterComponent .well h4 a:hover {
+    color: white ;
+}
+.loginComponent .well h3 {
+    
+   text-align: center;
+   font-size: 1.2em;
+   color: white;
+}
+.loginComponent .well h5 {
+    
+   font-size: 1.3em;
+   line-height: 25px;
+}
+.loginComponent .well h4 a {
+    color: white ;
+}
+
+.loginComponent .well h4 a:hover {
+    color: white ;
+}
+.loginComponent .RegisterComponent .well input {
+    border: 1px solid white ;
+}
+.loginComponent .well textarea {
+    border: 1px solid white;
+}
+
+.loginComponent .well select {
+    border: 1px solid white ;
+    margin-bottom: 3px;
+}
+
+.loginComponent .well label {
+    
+    color: white ;
+    font-size: 1em;
+}
+
+.input-group-addon {
+    background-color: white ;
+    border: 1px solid white ;
+    
+}
+
+.input-group-addon i {
+    color: red;
+}
+.signButton {
+    background-color:red ;
+    color: white;
+    border: none;
+    padding: 5px;
+    border:1px solid white;
+    margin-top: 2px;
+    border-radius: 5px;
+    font-size: 1.3em;
+    width: 100%;
+
+    text-align: center;
+    
+}
+ 
+
+.homeButton {
+    background-color: white;
+    color: red ;
+    border: none;
+    padding: 8px;
+    font-size: 1em;
+    border-radius: 3px;
+    box-shadow: 0px 0px 30px 6px rgba(243, 234, 232, 0.5);
+    font-weight: bold;
+    width: 100%;
+    text-align: center;
+     
+}
+
+.sideTrial h2 {
+    color: white;
+    ;
+    padding-bottom: 40px;
+    padding-top: 40px;
+}
+
+.sideTrial h4 {
+    color: white;
+    font-family: sans-serif;
+    font-size: 1em;
+    line-height: 30px;
+}
+#AllFields{
+  color: white;
+}
+#OkFields{
+  color: white;
+}
+#usernameError{
+  color: white;
+}
+#passwordError{
+  color: white;
+}
+
+ 
+

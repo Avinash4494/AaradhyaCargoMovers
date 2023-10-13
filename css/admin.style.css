@@ -1,0 +1,767 @@
+body {
+    background-color: ;
+    font-family: Asap;
+    padding: 0px;
+    margin: 0px;
+}
+
+.rightPannel #print_setion h4 {
+    font-weight: bold;
+    font-size: 1em;
+}
+
+.table th {
+    font-size: 0.8em;
+    letter-spacing: 1px;
+    background-color: #1C2833;
+    color: white;
+}
+
+.table tr {
+    font-size: 0.9em;
+}
+
+.paggignation {
+    padding-bottom: 15px;
+}
+
+.buttonTop {
+    margin-top: 10px;
+}
+
+.css-serial td {
+    font-size: 1em;
+}
+
+.listImage img {
+    border-radius: 50%;
+    border: 2px solid #1C2833;
+    margin-top: -5px;
+    height: 40px;
+    width: 60px;
+}
+
+.createProfile {
+    padding-top: 100px;
+    text-align: center;
+}
+
+.createProfile .well {
+    padding: 50px;
+    background-color: transparent;
+}
+
+.personalData h5 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.2em;
+    padding-bottom: 30px;
+}
+
+.updatePic {
+    padding-top: 30px;
+}
+
+.actionButton {
+    background-color: #1C2833;
+    border-radius: 5px;
+    border: none;
+    padding: 8px 10px;
+    width: 100%;
+    color: white;
+}
+
+.actionButtonIcons {
+    background-color: #1C2833;
+    border-radius: 5px;
+    border: none;
+    padding: 7px 10px;
+    width: 100%;
+    transition: 0.7s margin-top: -10px;
+    color: white;
+    text-align: left;
+}
+
+.actionBox {
+    height: 25px;
+    width: 25px;
+    position: absolute;
+    margin-top: -35px;
+    background-color: white;
+    opacity: 0;
+    transition: 0.7s;
+    margin-left: 210px;
+    overflow: hidden;
+    z-index: 0;
+    transform: rotate(45deg);
+}
+
+.left-compTop a:hover .actionBox {
+    margin-left: 185px;
+    opacity: 1;
+    background-color: white;
+    transition: 0.5s;
+}
+
+.actionButtonIcons:hover {
+    border-radius: 0px;
+    transition: 0.5s;
+}
+
+.actionButtonIcons-center {
+    background-color: #1C2833;
+    border-radius: 5px;
+    border: none;
+    padding: 5px 10px;
+    width: 100%;
+    margin-top: -5px;
+    color: white;
+}
+
+.logoutFrame {
+    color: white;
+    float: right;
+    padding-top: 20px;
+    padding-right: 30px;
+}
+
+.logoutFrame a {
+    text-decoration: none;
+    color: white;
+}
+
+.left-topHeading .profileCircleDrop img {
+    height: 45px;
+    width: 45px;
+    margin-top: 8px;
+    border-radius: 50%;
+}
+
+.nameString {
+    background-color: #00B8E0;
+    height: 35px;
+    width: 35px;
+    border-radius: 50%;
+    color: white;
+    margin-top: 13px;
+    padding-top: 8px;
+    padding-left: 8px;
+    margin-left: 50px;
+}
+
+.dropdown-menu {
+    margin-left: -170px;
+    padding: 0px;
+
+    width: 250px;
+    background-color: #1C2833;
+    color: white;
+    border-radius: 0px;
+    box-shadow: 0px 10px 20px 6px rgba(243, 234, 232, 0.5);
+    margin-top: 22px;
+}
+
+.dropdown-menu .profileCircleDropdown img {
+    height: 40px;
+    width: 40px;
+    margin-top: 8px;
+    border-radius: 50%;
+    margin-left: 15px;
+}
+
+.profileAnchor {
+    padding-top: 25px;
+}
+
+.profileAnchor h5 {
+    padding-left: 15px;
+}
+
+.profileAnchor a {
+    color: white;
+    text-decoration: none;
+    transition: 0.7s;
+    cursor: pointer;
+}
+
+.profileAnchor .editProfile {
+    padding-bottom: 15px;
+}
+
+.profileAnchor .editProfile:hover a {
+    color: #00B8E0;
+}
+
+.profileAnchor .logout {
+    background-color: #1C2833;
+    padding: 3px;
+    overflow: hidden;
+}
+
+.profileAnchor .logout:hover {
+    background-color: #00B8E0;
+    color: white;
+    transition: 0.5s;
+}
+
+.profileAnchor .logout:hover a {
+
+    color: #1C2833;
+    transition: 0.5s;
+}
+
+/*.dropdown-menu ul li {
+    color: white;
+    background-color: ;
+    margin-left: -35px;
+    list-style: none;
+    padding: 10px;
+}
+
+.dropdown-menu ul li a {
+    color: white;
+    text-decoration: none;
+}*/
+
+.list-group-item {
+    padding: 5px;
+    border-radius: 0px;
+}
+
+.feeStructure {
+    margin-top: 0px;
+    text-align: center;
+
+}
+
+.rightSide .list-group {
+    margin-top: -10px;
+}
+
+.widgetsReport .well {
+    background-color: #1C2833;
+    color: white;
+    padding: 0px 10px 0px 0px;
+    text-align: right;
+    transition: 0.5s;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.widgetsReport .well:hover {
+    background-color: red;
+    color: white;
+    transition: 0.5s;
+
+}
+
+.widgetsReport .well a {
+    color: white;
+    text-decoration: none;
+}
+
+
+
+.rectLongContent .rectWidget .well {
+    text-align: left;
+    background-color: #1C2833;
+    color: white;
+    padding: 10px;
+    margin-top: -15px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.8s;
+}
+
+.rectLongContent .rectWidget .well:hover {
+
+    background-color: red;
+    color: white;
+    border-radius: 0px;
+    transition: 0.5s;
+
+}
+
+.rectLongContent .rectWidget .well p {
+    margin: 0px;
+    padding: 0px;
+    font-size: 0.8em;
+
+}
+
+.rectLongContent a {
+    color: white;
+}
+
+.widgetsGreetings .well {
+    background-color: #1C2833;
+    color: white;
+    padding: 7px 10px 0px 10px;
+
+    margin-top: 10px;
+    border-radius: 5px;
+    margin-bottom: 5px;
+    letter-spacing: 1px;
+}
+
+.widgetsGreetings .well a {
+    color: white;
+    text-decoration: none;
+}
+
+.widgetsExpires .well {
+
+    color: white;
+    padding: 10px 15px 10px 5px;
+    text-align: center;
+    margin-top: 10px;
+    border-radius: 5px;
+    margin-bottom: 5px;
+}
+
+.widgetsExpires .well a {
+    color: white;
+    text-decoration: none;
+}
+
+.widgetsDoc .well {
+    padding: 3px;
+    height: 100%;
+    overflow: hidden;
+}
+
+
+
+.widgetsDoc h4 {
+    text-align: center;
+    font-size: 1em;
+    margin-top: -15px;
+}
+
+.widgetsLeave .well {
+    background-color: #1C2833;
+    color: white;
+    padding: 5px;
+    margin-top: 10px;
+    border-radius: 5px;
+    margin-bottom: 5px;
+}
+
+.widgetsLeave .well h3 {
+    text-align: left;
+}
+
+.widgetsLeave .well h5 {
+    text-align: center;
+    padding-top: 15px;
+}
+
+.widgetsLeave .well span {
+    font-size: 0.5em;
+}
+
+.nav-tabs li a {
+    background-color: #1C2833;
+    color: white;
+    padding: 7px;
+}
+
+.nav-tabs li a:hover {
+    background-color: #1C2833;
+    color: white;
+    border: none;
+
+}
+
+.leaveDetailsPannel .well {
+    margin-top: 0px;
+}
+
+#noLeavesDisplay {
+    margin-top: 12px;
+}
+
+.timeShow {
+    text-align: right;
+
+}
+
+.paggignation a {
+    color: black;
+    text-decoration: none;
+}
+
+span.activePage {
+    color: red;
+    font-size: 1.1em;
+}
+
+.empty-left-View {
+    padding-top: 120px;
+}
+
+.empty-left-comTop {
+    padding-top: 60px;
+}
+
+.Mainheading {
+    margin-top: -20px;
+}
+
+.empty-left-Home-comTop {
+    padding-top: 20px;
+}
+
+.empty-left-Index-comTop {
+    padding-top: 35px;
+}
+
+.actionButtonIcons {
+    text-align: left;
+}
+
+.left-compTop .actionButtonIcons {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    transition: 0.5s;
+
+}
+
+.tablePrint th {
+    padding: 5px;
+}
+
+.tablePrint td {
+    padding: 5px;
+
+}
+
+.left-compTop .actionButtonIcons:hover {
+    background-color: red;
+    transition: 0.5s;
+}
+
+.left-Logo {
+    background-color: green;
+    padding: 0px;
+}
+
+.wrapper {
+
+    padding: 0px;
+}
+
+.left-topHeading img {
+    height: 55px;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+
+.left-topHeading h3 {
+    padding-top: 10px;
+    position: absolute;
+    margin-left: -40px;
+    font-family: Acme;
+    font-size: 2em;
+    color: black;
+}
+
+.right-topHeading {
+    margin-left: -35px;
+}
+
+.right-topHeading h5 {
+    padding-top: 0px;
+    font-size: 1.3em;
+    color: white;
+}
+
+.right-topHeading h6 {
+    padding-top: 0px;
+    font-size: 1em;
+    color: white;
+    margin-top: -5px;
+}
+
+.right-compTop {
+    background-color: #1C2833;
+    width: 100%;
+    padding: 5px;
+    color: white;
+}
+
+.formPannel span {
+    color: red;
+    padding-left: 3px;
+}
+
+.formPannel input {
+    margin-bottom: -6px;
+}
+
+.formPannel label {
+    margin-top: 3px;
+    margin-bottom: 3px;
+}
+
+.profileImage {
+    height: 100%;
+
+    background-color: ;
+    padding: 5px;
+    border: 2px solid #1C2833;
+}
+
+.profileImage img {}
+
+
+/*AUTHENTICATION PANNEL CSS*/
+.loginPannel {
+    padding-top: 17%;
+}
+
+.loginPannel .well {
+    background-color: transparent;
+    padding: 3% 10%;
+
+    border-top-right-radius: 0px;
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+
+}
+
+.switchPannel {
+    padding: 20px;
+    background-color: #1C2833;
+    text-align: center;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+}
+
+.loginPannel .switchPannel a {
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    text-align: center;
+}
+
+.loginPannel .well label {
+    margin-bottom: 10px;
+}
+
+.loginPannel .well h6 {
+    margin: 0px;
+    float: right;
+}
+
+.loginPannel .well input {
+    padding: 25px 15px;
+    border: 1px solid #1C2833;
+}
+
+.loginPannel .well select {
+
+    border: 1px solid #1C2833;
+}
+
+.loginPannel .well span {
+    color: red;
+}
+
+.sectionHead h2 {
+    text-align: center;
+    font-size: 1.5em;
+
+}
+
+.sectionHead img {
+    height: 70px;
+    width: 70px;
+}
+
+#AllFields {
+    text-align: center;
+    font-size: 0.9em;
+    color: red;
+    padding-bottom: 10px;
+    margin-top: -20px;
+}
+
+.loginPannel .well a {
+    color: red;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.WrapperLogo img {
+    height: 65px;
+    width: 60px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.WrapperLogo h3 {
+    padding-top: 40px;
+    margin-left: -35px;
+    font-weight: bold;
+}
+
+.WrapperLogoReg img {
+    height: 65px;
+    width: 60px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.WrapperLogoReg h3 {
+    padding-top: 40px;
+    margin-left: -15px;
+    font-weight: bold;
+}
+
+.WrapperLogo a {
+    color: #1C2833;
+    text-decoration: none;
+}
+
+.WrapperLogoReg a {
+    color: #1C2833;
+    text-decoration: none;
+}
+
+#usernameError {
+    font-size: 0.8em;
+    color: red;
+}
+
+#passwordError {
+    font-size: 0.8em;
+    color: red;
+}
+
+.registerPannel {
+    padding-top: 40px;
+}
+
+.registerPannel .well {
+    background-color: transparent;
+    padding: 0px 10%;
+    border-radius: 20px;
+    padding-bottom: 0px;
+    margin: 0px;
+}
+
+.registerPannel .well label {
+    margin-bottom: 10px;
+}
+
+.registerPannel .well h6 {
+    margin: 0px;
+
+}
+
+.registerPannel .well input {
+    padding: 20px 15px;
+    border: 1px solid #1C2833;
+}
+
+.registerPannel .well select {
+
+    border: 1px solid #1C2833;
+    height: 42px;
+}
+
+.registerPannel .well span {
+    color: red;
+}
+
+.registerPannel .well a {
+    color: red;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.registerPannel p {
+    text-align: center;
+    font-size: 0.8em;
+    padding-top: 5px;
+}
+
+.sectionHeadReg h2 {
+    text-align: center;
+    font-size: 1.5em;
+    margin-top: 20px;
+    padding-bottom: 15px;
+}
+
+.sectionHead h2 {
+    text-align: center;
+    font-size: 1.5em;
+    padding-bottom: 15px;
+}
+
+.actionButtonIcons-login {
+    background-color: #1C2833;
+    border-radius: 5px;
+    border: none;
+    padding: 10px 10px;
+    width: 100%;
+    margin-top: -5px;
+    color: white;
+}
+
+.bigBox {}
+
+.bigBox .well {
+    background-color: #1C2833;
+    color: white;
+    padding: 5px;
+    text-align: center;
+}
+
+.profileDisplayComponent .well {
+    background-color: transparent;
+    border: none;
+}
+
+.formSection label {
+    letter-spacing: 1px;
+    color: #1C2833;
+    font-size: 0.9em;
+}
+
+.formSection input {
+    border-radius: 0px;
+    border: 1px solid #00B8E0;
+}
+
+.formSection select {
+    border-radius: 0px;
+    border: 1px solid #00B8E0;
+}
+
+.formSection h5 {
+    margin: 0px;
+    padding-bottom: 5px;
+}
+
+.profileData h6 {
+    font-size: 1em;
+}
+
+.courierAddComponent {
+    margin-top: -15px;
+}
+
+.bodyComponent {
+    margin-top: -20px;
+}
+a.actionIcon
+{
+    text-align: center;
+    font-size: 1.5em;
+    padding-left: 10px;
+}

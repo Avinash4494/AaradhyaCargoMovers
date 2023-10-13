@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<head>
+	<title>
+	How to get selected value in
+	dropdown list using JavaScript?
+	</title>
+</head>
+<body>
+	<h1 style="color: green">
+	GeeksforGeeks
+	</h1>
+	<b>
+	How to get selected value in dropdown
+	list using JavaScript?
+	</b>
+	
+	<p> Select one from the given options:
+		<div class="form-group">
+			<label for="">Expence</label>
+			<select name="expenceType" id="MySelectOption" onfocusout="getOptionFixed()" class="form-control">
+				<option value="Select Any">Select Any</option>
+				<option id="auto" value="Auto">Auto</option>
+				<option id="car" value="Car">Car</option>
+				<option id="motorCycle" value="Motor Cycle">Motor Cycle</option>
+				<option id="publicTrans" value="Public Transport">Public Transport</option>
+				<option id="taxi" value="Taxi">Taxi</option>
+			</select>
+		</div>
+		<div class="form-group">
+			<label for="">Distance</label>
+			<input type="text" id="distance" name="distance" onfocusout="getOptionVarible()" class="form-control" placeholder="Distance">
+		</div>
+		<div class="form-group">
+			<label for="">Permissible Limit</label>
+			<input type="text" id="amount" name="perm_limit" class="form-control" placeholder="Permissible Limit">
+		</div>
+		
+		<script type="text/javascript">
+		function getOptionFixed() {
+		var valueFixed = document.getElementById("MySelectOption");
+		var strUser = valueFixed.options[valueFixed.selectedIndex].value;
+		var auto = 'Auto';
+		var publicTrans = 'Public Transport';
+		var taxi = 'Taxi';
+		if (strUser==auto)
+		{
+		document.getElementById("distance").disabled = true;
+		document.getElementById('amount').value = 'Rs 350/-';
+		}
+		else if (strUser==publicTrans)
+		{
+		document.getElementById("distance").disabled = true;
+		document.getElementById('amount').value = 'Rs 200/-';
+		}
+		else if (strUser==taxi)
+		{
+		document.getElementById("distance").disabled = true;
+		document.getElementById('amount').value = 'Rs 450/-';
+		}
+		}
+	function getOptionVarible() {
+		var valueVari = document.getElementById("MySelectOption");
+		var distanceVari = document.getElementById("distance").value;
+		var strUser = valueVari.options[valueVari.selectedIndex].value;
+		var car = 'Car';
+		var motorCycle = 'Motor Cycle';
+		if (strUser==car)
+		{
+			var carAmount = 8.5*distanceVari;
+		document.getElementById('amount').value = 'Rs'+ ' ' + carAmount + '/-';
+		}
+		else if (strUser==motorCycle)
+		{
+		var motorAmount = 3.5*distanceVari;
+		document.getElementById('amount').value = 'Rs'+ ' ' + motorAmount + '/-';
+		}
+	}
+		</script>
+	</body>
+</html>

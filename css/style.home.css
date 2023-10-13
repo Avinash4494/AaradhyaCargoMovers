@@ -1,0 +1,1500 @@
+/*sectionMainHead*/
+#sectionGetQuote span
+    {
+    font-size: 1em;
+    }
+    #sectionContactComp span
+    {
+    font-size: 1em;
+    }
+#sectionMainHead {
+    height: 645px;
+    background-color: #F4ECF7;
+}
+
+.carouselComponent {
+    background-color: red;
+    margin-top: -470px;
+    padding-bottom: 130px;
+}
+
+.sectionComponent .well {
+    background-color: transparent;
+    border: none;
+    margin-bottom: 48px;
+}
+
+.sectionComponentFinder .well {
+    background-color: rgba(255, 12, 1, 0.2);
+    border: none;
+    padding: 5px;
+    border-radius: 0px;
+}
+
+.searchForm {
+    padding: 20px 40px 10px 40px;
+    font-family: Asap;
+}
+
+.searchForm input {
+    border-radius: 0px;
+    border: 1px solid white;
+    padding: 15px;
+}
+
+.searchForm select {
+    border-radius: 0px;
+    border: 1px solid white;
+    height: 35px;
+}
+
+.searchForm label {
+    font-size: 1em;
+    text-align: left;
+    color: white;
+    font-weight: none;
+    font-family: Asap;
+}
+
+.totalDisplay {
+    height: 100%;
+    background-color: red;
+    padding: 5px;
+    margin-top: 5px;
+}
+
+.totalDisplay h3 {
+    font-size: 1em;
+    color: white;
+    margin: 0px;
+    padding: 5px;
+    text-align: left;
+    font-family: Asap;
+}
+
+.sectionComponentFinder h4 {
+    font-size: 1.8em;
+    padding-left: 20px;
+    color: white;
+    font-family: Asap;
+}
+
+.carouselComponent .universalButton {
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 7px;
+    border-radius: 0px;
+    font-size: 1em;
+    width: 100%;
+    letter-spacing: 1px;
+    margin-top: 5px;
+    text-align: center;
+    font-family: Asap;
+}
+
+.topImageDesign h2 {
+    font-size: 3.1em;
+    text-align: left;
+    line-height: 1.2em;
+    left: 2px;
+    margin-top: 10px;
+    color: white;
+    font-weight: bold;
+    font-family: Asap;
+}
+
+.topImageDesign h4 {
+    font-size: 1.2em;
+    line-height: 1.2em;
+    left: 2px;
+    color: white;
+    font-family: Asap;
+}
+
+.topImageDesign p {
+    font-size: 1.2em;
+    line-height: 1.2em;
+    left: 2px;
+    color: white;
+    font-family: Asap;
+}
+
+.emptyWell {
+    height: 300px;
+    background-color: transparent;
+}
+
+#commonIconWhat {
+    margin-top: 10px;
+}
+
+.sectionComponent .well img {
+    margin-top: 0px;
+}
+
+.carousel-indicators .active {
+    background-color: red;
+    border: 1px solid red;
+    border-radius: 0px;
+    height: 3px;
+    width: 50px;
+    margin-bottom: 50px;
+}
+
+.carousel-indicators li {
+    background-color: white;
+    height: 3px;
+    width: 50px;
+    border-radius: 0px;
+    border: 1px solid white;
+    margin-bottom: 45px;
+}
+
+.carousel-inner img {
+    width: 100%;
+    max-height: 635px
+}
+
+.carousel-control {
+    width: 0;
+}
+
+.carousel-control .glyphicon-chevron-right,
+.carousel-control .icon-next {
+    right: 0;
+}
+
+.carousel-control.left span,
+.carousel-control.right span {
+    background-color: #000;
+}
+
+.carousel-control.left span:hover,
+.carousel-control.right span:hover {
+    opacity: .7;
+    filter: alpha(opacity=70);
+}
+
+/*sectionMainHead*/
+/*sectionInformation*/
+.sectionInformation {
+
+    margin-top: -25px;
+}
+
+.info_well .well {
+    background-color: red;
+    margin-top: -50px;
+    position: relative;
+    padding: 20px;
+    border: none;
+    overflow: hidden;
+    border-radius: none;
+    color: white;
+    font-family: Asap;
+    text-align: center;
+}
+.info_well .well h2
+{
+    font-size: 1.2em;
+    font-weight: bold;
+}
+.info_well_footer .well
+{
+    padding: 0px;
+    background-color:red;
+    margin-top: -50px;
+    border:none;
+    text-align: center;
+}
+.info_well_footer .well h2
+{
+    font-size: 1.2em;
+    font-weight: bold;
+}
+.info_well_footer .well p
+{
+    font-size: 0.9em;
+    padding: 0px;
+    margin: 0px;
+}
+
+
+.wave img {
+    width: 100%;
+    margin-bottom: 8px;
+    margin-top: -40px;
+}
+
+.waveHome img {
+    width: 100%;
+    margin-bottom: 8px;
+    margin-top: -85px;
+    position: relative;
+}
+
+.widgetInfoBox1,
+.widgetInfoBox2,
+.widgetInfoBox3,
+.widgetInfoBox4 h1 {
+    text-align: center;
+}
+
+.widgetInfoBox1,
+.widgetInfoBox2,
+.widgetInfoBox3,
+.widgetInfoBox4 {
+    padding: 20px;
+    transition: 0.5s;
+    background-color: transparent;
+}
+
+.widgetInfoBox1:hover,
+.widgetInfoBox2:hover,
+.widgetInfoBox3:hover,
+.widgetInfoBox4:hover {
+    margin-top: -20px;
+    transition: 0.7s;
+    margin-bottom: 20px;
+    background-color: transparent;
+    color: white;
+}
+
+/*sectionInformation*/
+/*sectionTitle*/
+#sectionTitle {
+    background-color: #F4ECF7;
+    margin-top: -8px;
+}
+
+#sectionTitle h2 {
+    text-align: center;
+    font-family: Asap;
+    font-weight: bold;
+}
+
+#sectionTitle p {
+    text-align: center;
+    font-family: Asap;
+    padding: 10px 0px 30px 0px;
+    line-height: 25px;
+    font-size: 1.1em;
+}
+
+/*sectionTitle*/
+/*sectionOurServices*/
+#sectionOurServices {
+    background-color: #F4ECF7;
+    font-family: Asap;
+    padding: 40px 0px 40px 0px;
+}
+
+.imageBox {
+    width: 100%;
+    box-sizing: border-box;
+    padding: 0 10px;
+}
+
+.imageBox figure {
+    position: relative;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.imageBox figure:before,
+.imageBox figure:after {
+    content: '';
+    position: absolute;
+    top: 0;
+    height: 100%;
+    width: 50%;
+    background: #F90A03;
+    transition: .5s;
+}
+
+.imageBox figure:before {
+    left: -50%;
+}
+
+.imageBox:hover figure:before {
+    left: 0;
+}
+
+.imageBox figure:after {
+    right: -50%;
+}
+
+.imageBox:hover figure:after {
+    right: 0;
+}
+
+.imageBox figure img {
+    width: 100%;
+    height: 100%;
+}
+
+.imageBox figure figcaption {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    bottom: 20px;
+    right: 20px;
+    background: #fff;
+    text-align: center;
+    padding: 20px;
+    opacity: 0;
+    transition: .5s;
+    transition-delay: .5s;
+    cursor: pointer;
+    transform: translateY(20px);
+    z-index: 1;
+}
+
+.imageBox figure figcaption h4 {
+    font-size: 1.2em;
+    font-weight: bold;
+    font-family: Asap;
+}
+
+.imageBox:hover figure figcaption {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+.imageBox:hover figure figcaption h4 {
+    color: red;
+}
+
+.imageBox figure figcaption h1 {
+    margin: 0;
+    padding: 0;
+    font-size: 22px;
+}
+
+.imageBox figure figcaption p {
+    margin: 10px 0 0;
+    padding: 0;
+    font-size: 16px;
+}
+
+.imageBox figure figcaption a {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #ff1922;
+    color: #fff;
+    margin-top: 20px;
+    text-decoration: none;
+}
+.imageBox h4
+{
+     text-align: center;
+    font-weight: bold;
+    padding-bottom: 20px;
+}
+
+h4.boxInsideHeading {
+    text-align: center;
+    font-weight: bold;
+    padding-bottom: 10px;
+    padding-top: 20px;
+}
+
+h4.imageUnderHead {
+    text-align: center;
+    font-weight: bold;
+    margin-top: -25px;
+    padding-bottom: 20px;
+}
+
+h4.imageUnderHead:hover {
+    color: red;
+    transition: 0.7s;
+}
+
+h3.boxHeading:hover {
+    color: red;
+    transition: 0.7s;
+}
+
+#sectionOurServices h3 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.6em;
+    transition: 0.4s;
+    padding-bottom: 10px;
+    margin-top: 5px;
+}
+
+p.boxDescription {
+    line-height: 22px;
+    font-size: 1.1em;
+    text-align: justify;
+}
+
+#sectionServicesInfo {
+    margin-bottom: 10px;
+}
+
+.servicesComponent {
+    height: 100%;
+    padding: 40px;
+    color: white;
+    font-family: Asap;
+    background-image: url(../image/a-7.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.servicesComponent h2 {
+    letter-spacing: 3px;
+    text-align: center;
+    font-family: Asap;
+    color: white;
+}
+
+.servicesComponent h5 {
+    letter-spacing: 3px;
+    text-align: center;
+    font-family: Asap;
+    font-size: 18px;
+}
+
+.servicesComponent span {
+    color: white;
+}
+
+.servicesComponent h4 {
+    letter-spacing: 3px;
+    text-align: center;
+}
+
+.widgetRecords {
+    background-color: transparent;
+    margin-top: 50px;
+    height: 100%;
+}
+
+.widgetRecords h4 {
+    line-height: 25px;
+}
+
+.widgetRecordBox1,
+.widgetRecordBox2,
+.widgetRecordBox3,
+.widgetRecordBox4,
+h1 {
+    text-align: center;
+}
+
+.widgetRecords i {
+    font-size: 2.5em;
+    color: transparent;
+    transition: 0.5s;
+}
+
+.widgetRecords:hover i {
+    font-size: 2.5em;
+    color: white;
+    transition: 1s;
+}
+
+.widgetRecordBox1,
+.widgetRecordBox2,
+.widgetRecordBox3,
+.widgetRecordBox4 {
+    padding: 30px;
+    transition: 0.5s;
+    background-color: transparent;
+
+}
+
+.widgetRecordBox1:hover,
+.widgetRecordBox2:hover,
+.widgetRecordBox3:hover,
+.widgetRecordBox4:hover {
+    margin-top: -20px;
+    transition: 0.7s;
+    color: white;
+    margin-bottom: 20px;
+    background-color: red;
+}
+
+#OurExpertise {
+    background-color: #F4ECF7;
+    font-family: Asap;
+    padding: 40px;
+}
+.expertiseComp
+{
+   padding-top: 25px; 
+}
+.expertiseComp h3
+{
+  text-align: right;
+  margin-top: 0px;
+  font-size: 2.2em;
+  font-weight: bold;
+  padding-bottom: 20px;
+}
+.expertiseComp h4
+{
+  text-align: right;
+}
+.expertiseComp h5
+{
+  text-align: right;
+  font-size: 1.2em;
+  line-height: 25px;
+}
+.expertiseComp i
+{
+font-size: 4em;
+margin-top: 0px;
+margin-left: -60px;
+position: absolute;
+opacity: 0.7;
+}
+
+#downloadFile 
+{
+    padding: 40px;
+    background-color: red;
+    color: white;
+}
+#downloadFile h3 
+{
+    color: white;
+    font-size: 1.5em;
+    border:2px solid white;
+    float: right;
+    padding: 7px;
+    text-decoration: none;
+}
+#downloadFile h3 a
+{
+    color: white;
+    text-decoration: none;
+}    
+/*sectionOurServices*/
+
+/*OurSpeicalServices*/
+#OurSpeicalServices {
+    background-color: red;
+    height: 100%;
+    margin-top: -30px;
+    padding: 40px 0px 40px 0px;
+    font-family: Asap;
+}
+
+#OurSpeicalServices .well {
+    background-color: transparent;
+    border-radius: 0px;
+    padding: 20px 0px 20px 0px;
+    border: 1px solid red;
+    transition: 0.4s;
+}
+
+.widgetRectangle h3 {
+    font-size: 1.4em;
+    color: white;
+    font-weight: bold;
+}
+
+.widgetRectangle p {
+    font-size: 1em;
+    color: white;
+}
+
+.widgetIcons i {
+    padding: 45px 00px 20px 20px;
+    font-size: 3em;
+    color: white;
+    transition: 0.4s;
+}
+
+#OurSpeicalServices .well:hover {
+    border: 1px solid white;
+    transition: 0.1s;
+}
+
+#OurSpeicalServices .well:hover i {
+    color: white;
+    margin-top: -30px;
+    transition: 0.5s;
+    margin-left: 15px;
+}
+
+/*OurSpeicalServices*/
+/*sectionWhyChooseUs*/
+#sectionWhyChooseUs {
+    padding: 40px 00px 40px 00px;
+    background-color: white;
+    font-family: Asap;
+}
+
+.widgetChooseLeft {
+    padding: 25px;
+}
+
+.widgetVertical {
+    height: 80px;
+    width: 2px;
+    background-color: #FE9188;
+    margin-left: 37px;
+    margin-top: -11px;
+    margin-bottom: -20px;
+}
+
+.widgetChooseIcon i {
+    font-size: 2.2em;
+    padding: 20px 00px 18px 20px;
+    color: #FF4F41;
+    transition: 0.5s;
+}
+
+
+.widgetChooseIcon {
+    height: 75px;
+    width: 75px;
+    transition: 0.5s;
+    border-radius: 50%;
+    margin-top: 20px;
+    border: 1px solid red;
+}
+
+.widgetGlow:hover .widgetChooseIcon {
+    background-color: red;
+    transition: 0.3s;
+}
+
+.widgetChooseLeft:hover i {
+    color: white;
+    transition: 0.3s;
+}
+
+.widgetChooseRight {
+    background-color: #F4ECF7;
+    padding: 25px 25px 00px 25px;
+}
+
+.widgetQuote {
+    padding: 00px 20px 00px 20px;
+    font-family: Asap;
+}
+
+#AllFields {
+    text-align: center;
+    color: red;
+}
+
+
+.universalButtonRed {
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 0px;
+    font-size: 1.1em;
+    width: 100%;
+    letter-spacing: 1px;
+    margin-top: 5px;
+    text-align: center;
+    font-family: Asap;
+}
+
+.widgetQuote input {
+    padding: 20px;
+    border-radius: 0px;
+}
+
+.widgetQuote select {
+    height: 40px;
+    border-radius: 0px;
+}
+
+.widgetQuote textarea {
+    padding: 20px;
+    border-radius: 0px;
+}
+
+.checkbox input {
+    padding: 5px;
+    background-color: red;
+    border-radius: 0px;
+}
+
+.widgetQuote p {
+    text-align: justify;
+    font-size: 1.1em;
+}
+
+/*sectionWhyChooseUs*/
+
+/*WhatUserSays*/
+#WhatUserSays {
+    height: 100%;
+    padding: 40px;
+    background-color: #F4ECF7;
+    font-family: Asap;
+}
+
+.carouselPaggination {
+    background-color: red;
+    margin-top: 80px;
+    position: relative;
+}
+
+.carouselWell .well {
+    background-color: white;
+    padding: 10px 30px 10px 30px;
+}
+
+.carouselWell .well h3 {
+    font-size: 1.2em;
+    line-height: 10px;
+}
+
+.carouselWell .well h5 {
+    font-size: 1em;
+    line-height: 10px;
+}
+
+.carouselWell .well p {
+    font-size: 1em;
+    line-height: 25px;
+    text-align: justify;
+    padding-top: 15px;
+}
+
+.userImageFeedback img {
+    height: 70px;
+    width: 70px;
+    margin-left: 30px;
+}
+
+/*WhatUserSays*/
+
+/*Our partners*/
+.sect {
+    height: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 90px 0px;
+    background-attachment: fixed;
+}
+
+.sectOne {
+    background-image: url(../image/24.jpg);
+    font-size: 1.5em;
+}
+
+.brandComp {
+
+}
+
+.brandComp .well {
+    border-radius: 0px;
+    background-color: white;
+    padding: 0px;
+overflow: hidden;
+    border: none;
+
+}
+/*Our partners*/
+
+/*FeaturedNews*/
+#FeaturedNews {
+    font-family: Asap;
+    padding: 60px;
+}
+
+.widgetNews h4 {
+    margin-top: -15px;
+    font-size: 1.2em;
+}
+
+.widgetNews h3 {
+    margin-top: 0px;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+.widgetNews .well {
+    overflow: hidden;
+    padding: 0px;
+    border-radius: 0px;
+    border: none;
+    transition: 0.5s;
+    background-color: transparent;
+}
+
+.widgetDate {
+    height: 70px;
+    width: 60px;
+    color: white;
+    background-color: red;
+    position: absolute;
+    transition: 0.5s;
+}
+
+.widgetDate h1 {
+    font-size: 1.7em;
+    font-weight: bold;
+    text-align: center;
+    margin: 0px;
+    padding-top: 10px;
+}
+
+.widgetWindow {
+    transition: 0.5s;
+    margin-left: -200px;
+    position: absolute;
+}
+
+.widgetNews .well:hover .widgetDate {
+
+    transition: 0.5s;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.widgetNews:hover .widgetWindow {
+
+    transition: 0.5s;
+    background-color: red;
+    height: 224px;
+    width: 360px;
+    margin-left: 0px;
+    position: absolute;
+    opacity: 0.5;
+}
+
+/*FeaturedNews*/
+
+/*ABOUT US*/
+.aboutHeader {
+    height: 105px;
+    background-color: transparent;
+}
+
+#sectionAboutHead {
+    height: 100%;
+    padding: 40px;
+    color: white;
+
+    font-family: Asap;
+    background-image: url(../image/a-7.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#sectionTitleHead h2 {
+    text-align: left;
+    font-size: 2.5em;
+    color: white;
+}
+
+#sectionTitleHead h5 {
+    text-align: left;
+    font-size: 1.1em;
+    color: white;
+}
+
+#sectionTitleHead h4 {
+     
+    font-size: 1.5em;
+    color: white;
+}
+.animateComp h2 {
+    text-align: right;
+    font-size: 2em;
+    color: white;
+    padding-top: 120px;
+}
+.animateComp h4 {
+ 
+    color: white;
+    
+ text-align: right;
+}
+.animateComp h4 a {
+ 
+    color: white;
+    font-size: 0.8em;
+ text-align: right;
+}
+
+.animateComp h4:hover a {
+    text-decoration: none;
+    color: white;
+
+}
+
+.animateComp h4 span {
+    color: red;
+    font-size: 0.8em;
+   
+}
+
+.team {
+    height: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 60px 0px;
+    background-attachment: fixed;
+}
+
+.teamOne {
+    background-image: url(../image/a-9.jpg);
+    padding:80px;
+}
+#OurTeam
+{
+  padding:0px;
+}
+.profileCardTeam .well
+{
+  background-color: transparent;
+  padding: 0px; 
+  border:none;
+  padding-bottom: 10px; 
+}
+.profileImage
+{
+    overflow: hidden;
+    height: 380px;
+}
+.profileText
+{
+    padding: 10px 20px 00px 20px;
+    background-color: white;
+    color: black;
+    text-align: justify;
+    position: relative;
+    margin-top: -80px;
+    padding-bottom: 20px;
+}
+.profileText h3
+{
+    margin-top: 5px;
+}
+ 
+.profileSocial i
+{
+    padding-top: 12px;
+    padding-left: 13px;
+    color: white;
+    margin-top: 10px;
+    font-size: 1.3em;
+    height: 40px;
+     width: 40px;
+     border-radius: 50%;
+     background-color: red;
+}
+
+.topImag {
+    padding-bottom: 40px;
+}
+
+ 
+
+.sectionTitleHead .well {
+    background-color: transparent;
+    border: none;
+    padding: 50px;
+}
+#aboutUsComp {
+    padding: 40px;
+    background-color: #F4ECF7;
+    font-family: Asap;
+}
+
+#aboutUsComp p {
+    line-height: 25px;
+    font-size: 1.1em;
+    text-align: justify;
+}
+
+.profile_img .well {
+    background-color: transparent;
+    border-radius: 0px;
+    padding: 0px;
+}
+
+.profile_img h2 {
+    font-size: 1.3em;
+    line-height: 0px;
+    margin-top: -5px;
+}
+
+.profile_img h3 {
+    font-size: 1em;
+    line-height: 20px;
+    margin-top: 15px;
+}
+
+#sectionTitleLeft {
+    padding-bottom: 20px;
+}
+
+#sectionTitleLeft h2 {
+    font-weight: bold;
+}
+
+#OurValuesComp {
+    font-family: Asap;
+    padding-bottom: 60px;
+}
+
+#CustomersFeedbackComponent {
+    background-color: #F4ECF7;
+    font-family: Asap;
+}
+
+.OurVisionWell .well {
+    overflow: hidden;
+    padding: 0px;
+    border-radius: 0px;
+    border: 1px solid white;
+    transition: 0.5s;
+    background-color: transparent;
+}
+
+.widgetText {
+    height: 40px;
+    width: 100%;
+    color: white;
+    background-color: red;
+    margin-top: -22px;
+    position: relative;
+    transition: 0.5s;
+    margin-bottom: 15px;
+}
+
+.widgetNews {
+    margin-top: 20px;
+}
+
+.OurVisionWell p {
+    line-height: 20px;
+    text-align: justify;
+}
+
+.widgetText h1 {
+    font-size: 1.3em;
+    text-align: center;
+    margin: 0px;
+    padding-top: 10px;
+}
+
+.widgetNews:hover .widgetText {
+    margin-top: -40px;
+    margin-bottom: 10px;
+    overflow: hidden;
+}
+
+#JoinUsComp {
+    padding: 20px;
+}
+
+#JoinUsComp h3 {
+    font-family: Asap;
+    text-align: center;
+    line-height: 30px;
+    font-size: 1.3em;
+}
+
+.widgetGlow1 h3 {
+    font-size: 1.4em;
+    line-height: 25px;
+}
+
+.widgetServicesIcon {
+    height: 75px;
+    width: 75px;
+    transition: 0.5s;
+    border-radius: 50%;
+    margin-top: 20px;
+    border: 1px solid red;
+}
+
+.widgetServicesIcon i {
+    font-size: 3em;
+    padding: 18px 00px 10px 5px;
+    color: red;
+    transition: 0.5s;
+}
+
+.widgetGlow1,
+.widgetGlow2,
+.widgetGlow3,
+.widgetGlow4 {
+    padding: 20px;
+    transition: 0.5s;
+    text-align: center;
+    background-color: transparent;
+
+}
+
+.widgetGlow1:hover,
+.widgetGlow2:hover,
+.widgetGlow3:hover,
+.widgetGlow4:hover {
+    margin-top: -20px;
+    transition: 0.7s;
+    margin-bottom: 20px;
+    color: white;
+    background-color: red;
+}
+
+/*ABOUT US*/
+
+/*GALLERY*/
+#sectionGallery {
+    padding: 60px;
+    background-color: #F4ECF7;
+}
+
+.widgetGalleryImage .well {
+    overflow: hidden;
+    border: none;
+    padding: 0px;
+    transition: 0.5s;
+    background-color: transparent;
+}
+
+.modal {
+    margin-top: 150px;
+}
+
+.modal-content {
+    height: 100%;
+    width: 550px;
+    background-color: white;
+    margin-left: 200px;
+}
+
+.modal-body img {
+    height: 100%;
+
+    margin-top: -30px;
+}
+
+.universalButtonOpen {
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 3px;
+    border-radius: 0px;
+    font-size: 1em;
+    height: 40px;
+    width: 40px;
+    overflow: hidden;
+    border-radius: 50%;
+    letter-spacing: 1px;
+    position: absolute;
+    margin-top: -64px;
+    margin-left: 320px;
+    text-align: center;
+    font-family: Asap;
+}
+
+.universalButtonClose {
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 3px;
+    border-radius: 0px;
+    font-size: 1em;
+    float: right;
+    height: 25px;
+    width: 25px;
+    border-radius: 50%;
+    letter-spacing: 1px;
+    margin-bottom: -20px;
+    margin-top: -25px;
+    margin-right: -20px;
+    text-align: center;
+    font-family: Asap;
+}
+
+/*GALLERY*/
+
+/*SERVICES*/
+#OurSpeicalServicesComp {
+    background-color: transparent;
+    height: 100%;
+    padding: 60px 0px 00px 0px;
+    font-family: Asap;
+}
+
+#OurSpeicalServicesComp .well {
+    background-color: transparent;
+    border-radius: 0px;
+    padding: 20px 0px 20px 0px;
+    border: 1px solid transparent;
+    color: red;
+    transition: 0.4s;
+}
+
+.widgetRectangleSerivces h3 {
+    font-size: 1.4em;
+    color: white;
+    font-weight: bold;
+}
+
+.widgetRectangleSerivces p {
+    font-size: 1em;
+    color: white;
+}
+
+.widgetIconsSerivces i {
+    padding: 45px 00px 20px 20px;
+    font-size: 4em;
+    color: white;
+    transition: 0.4s;
+}
+
+#OurSpeicalServicesComp .well:hover {
+    border: 1px solid red;
+    transition: 0.1s;
+    background-color: red;
+}
+
+#OurSpeicalServicesComp .well:hover i {
+    color: white;
+    margin-top: -30px;
+    transition: 0.5s;
+    margin-left: 15px;
+}
+
+/*SERVICES*/
+
+/*QUOTE*/
+.widgetQuoteRight {
+    background-color: #F4ECF7;
+    padding: 00px 25px 00px 25px;
+}
+
+.checkboxQuote {
+    margin-top: -6px;
+    position: relative;
+}
+
+.universalButtonRedQuote {
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 0px;
+    font-size: 1.1em;
+    width: 100%;
+    letter-spacing: 1px;
+    text-align: center;
+    font-family: Asap;
+}
+
+.widgetQuote span {
+    color: red;
+    font-size: 1.2em;
+}
+
+/*QUOTE*/
+
+/*CONTACT US*/
+#sectionContactComp {
+    background-color: #F4ECF7;
+    padding-bottom: 40px;
+    font-family: Asap;
+}
+
+.widgetContact {
+
+    padding-top: 40px;
+}
+
+.universalButtonRedFeedback {
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 0px;
+    font-size: 1.1em;
+    width: 100%;
+    margin-top: 15px;
+    letter-spacing: 1px;
+    text-align: center;
+    font-family: Asap;
+}
+
+.widgetContact {
+    padding-bottom: 30px;
+    margin-top: -20px;
+}
+
+.widgetFeedbackIcon {
+    height: 60px;
+    width: 60px;
+    background-color: red;
+    border-radius: 50%;
+    margin-top: 15px;
+}
+
+.widgetFeedbackIcon i {
+    font-size: 2em;
+    color: white;
+    padding: 17px 10px 10px 17px;
+}
+
+.widgetContactText h5 {
+    line-height: 22px;
+}
+
+/*CONTACT US*/
+
+/*paggination*/
+.pagination {
+
+    margin-left: 40px;
+
+    margin-top: 20px;
+}
+
+.pagination a {
+    color: white;
+    float: left;
+    font-size: 1em;
+    padding: 4px 16px;
+    text-decoration: none;
+    background-color: red;
+    border: 1px solid red;
+    margin-left: 5px;
+    font-weight: bold;
+    margin-right: 5px;
+
+}
+
+.paginationCount h6 {
+    color: red;
+    float: left;
+
+    font-size: 1em;
+    padding: 4px 16px;
+    text-decoration: none;
+    background-color: transparent;
+
+    margin-top: 20px;
+    margin-right: 5px;
+
+}
+
+.pagination p {
+    color: white;
+    font-size: 0.5em;
+}
+
+.pagination i {
+    color: white;
+}
+
+.pagination a.active {
+    background-color: white;
+    color: black;
+    transition: 0.3s;
+    border: 1px solid red;
+}
+
+.pagination a:hover:not(.active) {
+    background-color: red;
+    color: white;
+    transition: 0.5s;
+}
+
+
+.pagination a:first-child {
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+
+}
+
+.pagination a:last-child {
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+/*paggination*/
+
+/*CAREERS*/
+#upcomingJobs {
+    background-color: #F4ECF7;
+    padding-bottom: 40px;
+    font-family: Asap;
+}
+
+.careersComponent .well {
+    background-color: white;
+    padding: 15px;
+}
+
+.careersComponent .well h3 {
+    padding: 0px;
+}
+
+.careersComponent a {
+    color: black;
+    text-decoration: none;
+}
+
+.courierDescription h5 {
+    line-height: 30px;
+}
+
+.universalButtonCareer {
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    width: 100%;
+    font-size: 0.9em;
+    margin-top: 3px;
+    text-align: center;
+}
+
+/*CAREERS*/
+
+/*SIDENAVLINKS*/
+.sideNavComp h6
+{
+    text-align: left;
+ 
+    line-height: 30px;
+    transition: 0.9s;
+}
+.sideNavComp h6:hover 
+{
+    background-color: red;
+    padding: 5px 10px;
+    color: white;
+    transition: 0.5s;
+    cursor: pointer;
+}
+.sideNavComp h6:hover a 
+{
+    color: white;
+}
+.sideNavComp h6 a
+{
+    color: red;
+    font-weight: bold;
+    font-size: 1.2em;
+    text-decoration: none;
+}
+/*SIDENAVLINKS*/
+
+/*FAQ'S*/
+
+/*FAQ'S*/

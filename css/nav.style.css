@@ -1,0 +1,111 @@
+/*NAVIGATION*/
+ #myDiv {
+     display: none;
+ }
+ html {
+     scroll-behavior: smooth;    
+ }
+ .header-contact
+ {
+     height: 40px;
+     padding: 00px 5px 00px 15px;
+     background-color: red;
+ }
+ .header-contact h4
+ {
+     font-size: 1em;
+     color: white;
+     font-family: Asap;
+     padding-top: 2px;
+     letter-spacing: 1px;
+ }
+.header-contact a
+{
+     color: white;
+     text-decoration: none;
+}
+.header-contact a:hover
+{
+      color: white;
+     text-decoration: none;
+}
+.header-icon
+{
+     padding-top: 2px;
+     padding-left: 55px;
+}
+.header-icon i
+{
+     margin: 10px;
+     font-size: 1.2em;
+}
+.mainHeader
+{
+     height: 65px;
+     background-color: red;
+}
+.universalButton {
+    background-color: white;
+    color: red;
+    border: none;
+    padding: 5px;
+    border-radius: 0px;
+    font-size: 1em;
+    width: 100%;
+    margin-top: 5px;
+    text-align: center;
+    font-family: Asap;
+}
+img.navbarLogo
+{
+     height: 60px;
+     width: 200px;
+}
+ nav.navbar {
+     position: fixed;
+     width: 100%;
+ }
+.navbar-brand {
+     font-size: 1em;
+     padding-top: 3px;
+     padding-left: 60px;
+     line-height: 1em;
+     letter-spacing: 2px;
+     width: 200px;
+ }
+a.navbar-brand:hover {
+     transition: 0.7s;
+     color: #CA656D !important;
+ }
+.navbar-header {
+     height: 65px;
+}
+.navbar {
+     margin-bottom: 0;
+     background-color: white;
+     z-index: 9999;
+     border: 0;
+     font-size: 1em;
+     line-height: 1.42857143 !important;
+     letter-spacing: 1.2px;
+     border-radius: 0;
+    font-family: Athiti;
+    font-weight: bold;
+ }
+.navbar li a,
+.navbar .navbar-brand {
+     color:red !important;
+     letter-spacing: 2px;
+ }
+.navbar-nav li a:hover,
+.navbar-nav li.active a {
+     color: red !important;
+     transition: 0.5s;
+     
+ }
+.navbar-default .navbar-toggle {
+     border-color: transparent;
+     color: #fff !important;
+ }
+
+ /*NAVIGATION*/

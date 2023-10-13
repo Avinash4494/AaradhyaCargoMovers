@@ -1,0 +1,252 @@
+@media screen and (max-width: 992px) {
+    .navbar-toggle {
+        padding-top: 20px;
+    }
+
+    .smallProfile img {
+        border-radius: 50%;
+        height: 50px;
+        width: 50px;
+        margin-top: 20px;
+        margin-left: 20px;
+    }
+
+    .smallIntro h4 {
+        font-size: 1em;
+        font-weight: bold;
+        padding-top: 10px;
+    }
+
+    .smallIntro h6 {
+        font-size: 0.9em;
+        margin-top: -5px;
+    }
+
+    .smallwidgetsBoxApp .well {
+        padding: 10px;
+        background-color: red;
+        border-radius: 0px;
+        border: none;
+        color: white;
+        padding-bottom: 0px;
+    }
+
+    .smallPannelComp a {
+        color: white;
+        text-decoration: none;
+    }
+
+    .smallContent p {
+        font-size: 1.1em;
+        float: right;
+    }
+
+    .smallContent h4 {
+        font-size: 1em;
+        margin-top: -5px;
+        text-align: center;
+    }
+
+    h4.resultText {
+        margin-top: 5px;
+        text-align: left;
+    }
+
+    .rightPaggignation {
+        padding: 0px;
+        margin-top: 0px;
+    }
+
+    #show_time {
+        font-size: 0.8em;
+    }
+
+    .timeName h3 {
+        font-size: 0.8em;
+        margin-top: 5px;
+    }
+
+    .universalButtonAdd {
+
+        margin-top: 10px;
+        background-color: red;
+        color: white;
+        border: none;
+        padding: 5px;
+        border-radius: 0px;
+        font-size: 1em;
+        width: 100%;
+        letter-spacing: 1px;
+        text-align: center;
+
+    }
+
+    .universalButtonDelete {
+        font-size: 0.8em;
+    }
+
+    .reportDisplayComponent {
+        margin: 0px;
+    }
+
+    .reportDisplayComponent .well {
+        padding: 5px;
+        border: 1px solid red;
+        margin-top: -10px;
+        background-color: white;
+        box-shadow: 0px 0px 30px 6px rgba(225, 225, 225, 1);
+    }
+    .profileDisplayComponent {
+        margin: 0px;
+    }
+
+    .profileDisplayComponent .well {
+        padding: 5px;
+        border: 1px solid white;
+        margin-top: -10px;
+        background-color: white;
+        box-shadow: 0px 0px 30px 6px rgba(225, 225, 225, 1);
+    }
+
+    .rightPannelProfile {
+
+        padding: 0px;
+
+    }
+
+    .rightPannelProfile h4 {
+        padding: 0px;
+        font-size: 1em;
+        margin-top: -10px;
+        font-weight: bold;
+        text-align: center;
+
+    }
+
+    .accountDisplayComponent {
+        margin: 0px;
+        margin-top: 10px;
+    }
+
+    .accountDisplayComponent .well {
+        padding: 15px;
+        border: 1px solid white;
+        margin-top: -10px;
+        background-color: white;
+        box-shadow: 0px 0px 30px 6px rgba(225, 225, 225, 1);
+    }
+
+    .squareProfile {
+        padding-top: 0px;
+    }
+
+    .squareProfile img {
+
+        margin-left: 0px;
+        height: 80px;
+        width: 150px;
+        margin-top: 0px;
+        margin-bottom: 20px;
+        border-radius: 50%;
+    }
+
+    .quoteComponent .well h5 {
+        line-height: 15px;
+        font-size: 0.8em;
+    }
+
+    .pagination {
+
+        margin-left: -5px;
+        margin-top: 5px;
+    }
+
+    .pagination h4 {
+        font-size: 0.8em;
+        margin-top: 0px;
+    }
+
+    .courierAddComponent {
+        margin: 0px;
+        margin-top: -20px;
+
+    }
+
+    .courierAddComponent h4 {
+        text-align: left;
+        font-size: 1em;
+        margin: 0px;
+        padding: 10px 00px;
+        text-decoration: underline;
+    }
+
+    .courierAddComponent label {
+        font-size: 0.9em;
+        padding: 0px;
+        margin: 0px;
+        margin-bottom: 3px;
+    }
+
+    .courierAddComponent input {
+        margin: 0px;
+        margin-bottom: -10px;
+    }
+    .signButton {
+    font-size: 1em;
+
+}
+.universalButton {
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 7px;
+    border-radius: 0px;
+    font-size: 0.7em;
+    width: 100%;
+    letter-spacing: 1px;
+    margin-top: 5px;
+    text-align: center;
+}
+.smallProfileImg img
+{
+	border-radius: 50%;
+
+	height: 100px;
+	width: 100px;
+}
+.smallSubHead h5
+{
+	margin-top: 3px;
+}
+.smallTab
+{
+	margin-bottom: 20px;
+	margin-top: -10px;
+}
+.universalButtonCareer
+{
+	width: 100%;
+}
+#AuthSectionLogin {
+    height: 538px;
+}
+.loginComponent{
+    margin-top: 100px;
+    padding: 30px;
+}
+.loginComponent .well {
+    box-shadow: 0px 0px 30px 6px rgba(243, 234, 232, 0.4);
+}
+.HomeComponent .well {
+   box-shadow: 0px 0px 30px 6px rgba(243, 234, 232, 0.2);
+}
+.sectionHead h2 {
+ 
+
+    font-weight: bold;
+    text-align: center;
+    color:white ;
+    font-size: 1.6em;
+    margin:00px;
+}
+}

@@ -1,0 +1,183 @@
+ @media screen and (max-width: 992px) {
+
+     .navbar-toggle {
+         margin-top: 15px;
+         background-color: transparent;
+     }
+
+     .profileAnchor .editProfile {
+
+         margin-top: -20px;
+         margin-bottom: -15px;
+     }
+
+     .logoutFrame {
+         margin-right: -25px;
+     }
+
+     .hamburgerMenu button.actionButtonIcons {
+         margin-top: 10px;
+         margin-left: -5px;
+         text-align: center;
+         font-size: 1.5em;
+         background-color: transparent;
+         width: 40px;
+         padding: 3px;
+         border-radius: 0px;
+     }
+
+     .hamburgerMenuOthers button.actionButtonIcons {
+         margin-top: -40px;
+         margin-left: -5px;
+         text-align: center;
+         font-size: 1.8em;
+         background-color: white;
+         color: black;
+         width: 40px;
+         padding: 3px;
+         border-radius: 0px;
+     }
+
+     .logoutFrame button.actionButtonIconsCogs {
+         margin-top: -40px;
+         margin-left: -5px;
+         text-align: center;
+         font-size: 1em;
+         background-color: transparent;
+         color: white;
+         margin-right: -10px;
+         width: 40px;
+         border: none;
+         padding: 3px;
+         border-radius: 0px;
+     }
+
+     .widgetsGreetings {
+         margin-top: -25px;
+         text-align: center;
+     }
+
+     .timeShow p {
+         text-align: center;
+     }
+
+     .pannelComp {
+         margin-top: -20px;
+     }
+
+     .pannelCompOthers {
+         margin-top: -20px;
+
+     }
+
+
+
+     .rightPannel {
+         padding: 0px;
+
+     }
+
+     .wrapperComp .container-fluid {
+         padding: 10px;
+     }
+
+     #dropdownDemoDrop {
+
+         background-color: #1c2833;
+
+     }
+
+     #dropdownDemoDrop .profileCircleDropdown img {
+         height: 45px;
+         width: 45px;
+         margin-top: 8px;
+         border-radius: 50%;
+         margin-left: 25px;
+     }
+
+     #dropdownDemoDrop .profileName {
+         color: white;
+     }
+
+     .editProfile h5 {
+         font-size: 1.2em;
+         padding-left: 25px;
+
+     }
+
+     .editProfile a {
+         color: white;
+         text-decoration: none;
+
+     }
+
+     .profileAnchorSmall a {
+         color: white;
+         text-decoration: none;
+         transition: 0.7s;
+         margin-left: 20px;
+         cursor: pointer;
+     }
+
+     .profileAnchorSmall {
+         padding-top: 30px;
+     }
+
+     .profileDetailsSmall {
+         padding-top: 10px;
+     }
+
+     .profileAnchorSmall .logout {
+         padding-bottom: 15px;
+         padding-right: 20px;
+         text-align: right;
+     }
+
+     .actionButtonIconsSignOut {
+         background-color: white;
+         color: #1c2833;
+         border: none;
+         border-radius: 5px;
+         padding: 5px 10px;
+     }
+     .right-topHeading span
+     {
+     	font-size: 0.7em;
+     }
+ 
+     .rightPannel .paggignation h5
+     {
+     	font-size: 0.8em;
+     }
+     .bodyComponent .rectLongContent
+     {
+ 
+     	margin-top: 20px;
+     }
+     .quote_id
+     {
+     	text-align: center;
+     }
+    .accounts
+     { 
+     	margin-top: -60px;}
+    .fullImage
+     {
+     	padding-left: 35px;
+     }
+     .showImage
+     {
+     	margin-left: -40px;
+     }
+     .accountInfo .fullImage
+     {
+     	margin-left: -35px;
+ 
+     }
+     .bodyComponentReport
+     {
+     	padding-top: 5px;
+     	margin-right: -10px;
+     
+     }
+ }

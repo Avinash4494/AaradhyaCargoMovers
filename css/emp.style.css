@@ -1,0 +1,829 @@
+/*sectionMainHead*/
+#sectionMainHead {}
+
+.carouselComponent {
+    background-color: red;
+    height: 200px;
+}
+
+.topImageDesign p {
+    font-size: 1.2em;
+    line-height: 1.2em;
+    left: 2px;
+    color: white;
+    font-family: Asap;
+}
+
+.carousel-indicators .active {
+    background-color: red;
+    border: 1px solid red;
+    border-radius: 0px;
+    height: 3px;
+    width: 50px;
+    margin-bottom: 3px;
+}
+
+.carousel-indicators li {
+    background-color: white;
+    height: 3px;
+    width: 50px;
+    border-radius: 0px;
+    border: 1px solid white;
+    margin-bottom: 0px;
+}
+
+.carouselIndicators ol {
+    position: relative;
+    padding-top: 15px;
+    margin-bottom: -25px;
+}
+
+.carousel-control .glyphicon-chevron-right,
+.carousel-control .icon-next {
+    right: 0;
+}
+
+.carousel-control.left span,
+.carousel-control.right span {
+    background-color: #000;
+}
+
+.carousel-control.left span:hover,
+.carousel-control.right span:hover {
+    opacity: .7;
+    filter: alpha(opacity=70);
+}
+
+/*sectionMainHead*/
+.sectionHeadAuth h2 {
+    text-align: center;
+    font-size: 1.5em;
+    padding-bottom: 30px;
+}
+
+.sectionHeadAuth img {
+    margin-top: 13px;
+}
+
+.pannelComp {
+    padding-top: 30px;
+}
+
+.dashViewComp .well {
+    background-color: #1c2833;
+    padding: 10px;
+    margin-top: -15px;
+}
+
+.dashViewComp .well h4 {
+    margin: 0px;
+    font-size: 1.1em;
+    color: red;
+}
+
+.dashViewComp .well a {
+    text-decoration: none;
+}
+
+.dashViewCompSlider .well {
+    background-color: #1c2833;
+    color: white;
+    padding: 5px;
+    z-index: 1;
+    margin-top: -15px;
+}
+
+.accountComponent h4 {
+    margin-top: 0px;
+}
+
+.showDocumentEmp .well {
+    padding: 1px;
+    overflow: hidden;
+    margin-bottom: 0px;
+    height: 180px;
+}
+
+.showDocumentEmp p {
+    text-align: center;
+    padding: 10px;
+}
+
+.favApps {
+    padding-top: 30px;
+    padding-left: 5px;
+}
+
+.favApps .well p {
+    color: white;
+    font-size: 0.8em;
+    padding-top: 15px;
+    margin-left: -13px;
+}
+
+.favApps .well {
+    background-color: white;
+    color: #1c2833;
+    border-radius: 50%;
+    padding-left: 8px;
+    padding-top: 8px;
+    height: 40px;
+    width: 40px;
+    transition: 0.3s;
+    cursor: pointer;
+}
+
+.favApps .well i {
+    font-size: 1.5em;
+}
+
+.myFavApp .favApps .well:hover {
+    background-color: red;
+    transition: 1s;
+    border: 1px solid red;
+    color: white;
+}
+
+.actionButtonDash-center {
+    background-color: white;
+    border-radius: 5px;
+    border: none;
+    padding: 5px 10px;
+    width: 100%;
+    margin-top: 15px;
+    color: #1C2833;
+}
+
+.dashViewCompData .well {
+    background-color: #1c2833;
+    padding: 10px;
+    margin-top: -15px;
+}
+
+.dashViewCompData .well h4 {
+    margin: 0px;
+    font-size: 1.1em;
+    color: red;
+}
+
+.dashViewCompData .well h5 {
+
+    color: white;
+}
+
+.dashViewCompReq .well {
+    background-color: #1c2833;
+    padding: 0px 0px 10px 0px;
+    margin-top: -15px;
+    margin-bottom: 0px;
+}
+
+.dashViewCompReq .well h4 {
+    color: red;
+    font-size: 1.1em;
+    padding-left: 10px;
+}
+
+.listItemsComp {
+    padding-top: 10px;
+}
+
+.contentCompList a {
+    text-decoration: none;
+}
+
+.listItemsComp h5 {
+    color: white;
+    padding: 10px;
+    margin: 0px;
+    transition: 0.5s;
+    cursor: pointer;
+}
+
+.listSlider {
+    height: 25px;
+    width: 25px;
+    background-color: white;
+    transform: rotate(45deg);
+    margin-left: 320px;
+    margin-top: -30px;
+    margin-right: -40px;
+    transition: 0.3s;
+}
+
+.listItemsComp:hover h5 {
+    padding-left: 20px;
+    transition: 0.5s;
+    background-color: red;
+}
+
+.listItemsComp:hover .listSlider {
+    margin-left: 298px;
+    transition: 0.5s;
+    background-color: white;
+}
+
+.dashViewCompReqStat .well {
+    background-color: #1c2833;
+    padding: 0px 0px 10px 0px;
+    margin-top: -15px;
+}
+
+.dashViewCompReqStat .well h4 {
+    color: red;
+    font-size: 1.1em;
+    text-align: right;
+    padding-right: 10px;
+}
+
+.dashViewCompReqStat .well p {
+    color: white;
+    padding: 0px 5px;
+}
+
+.dashViewCompReqStat .well i {
+    color: white;
+
+}
+
+.dashViewCompReqStat .well a {
+    color: white;
+    text-decoration: none;
+}
+
+
+.listItemsReq h5 {
+    color: white;
+    padding: 10px;
+    margin: 0px;
+    text-align: right;
+    transition: 0.5s;
+    cursor: pointer;
+}
+
+.listSliderReq {
+    height: 25px;
+    width: 25px;
+    background-color: transparent;
+    transform: rotate(45deg);
+    margin-left: -30px;
+    margin-top: -30px;
+    transition: 0.3s;
+}
+
+.listItemsReq:hover h5 {
+    padding-right: 20px;
+    transition: 0.5s;
+    background-color: red;
+}
+
+.listItemsReq:hover .listSliderReq {
+    margin-left: -12px;
+    transition: 0.5s;
+    background-color: white;
+}
+
+.dashViewCompAction .well {
+    background-color: #1c2833;
+    padding: 0px 0px 5px 0px;
+    margin-top: -15px;
+}
+
+.dashViewCompAction .well h4 {
+    color: red;
+    font-size: 1.1em;
+    text-align: right;
+    padding-right: 10px;
+}
+
+.contentCompAction a {
+    text-decoration: none;
+}
+
+.listItemsAction {
+    padding-top: 10px;
+}
+
+.listItemsAction h5 {
+    color: white;
+    padding: 10px;
+    margin: 0px;
+    text-align: right;
+    transition: 0.5s;
+    cursor: pointer;
+}
+
+.listSliderAction {
+    height: 25px;
+    width: 25px;
+    background-color: transparent;
+    transform: rotate(45deg);
+    margin-left: -30px;
+    margin-top: -30px;
+    transition: 0.3s;
+}
+
+.listItemsAction:hover h5 {
+    padding-right: 20px;
+    transition: 0.5s;
+    background-color: red;
+}
+
+.listItemsAction:hover .listSliderAction {
+    margin-left: -12px;
+    transition: 0.5s;
+    background-color: white;
+}
+
+.aboutPannel {
+    padding-top: 35px;
+}
+
+.aboutPannel .well {
+    background-color: #1C2833;
+    padding: 0px 10px;
+}
+
+.aboutPannel .well h4 {
+    color: white;
+    font-size: 1.1em;
+    text-align: center;
+}
+
+.aboutPannel .well p {
+    color: white;
+    font-size: 0.9em;
+    line-height: 25px;
+    text-align: left;
+}
+
+.mainHeadDesc {
+    padding-top: 3px;
+}
+
+.mainHeadDesc .well {
+    background-color: #1C2833;
+    padding: 10px 10px;
+}
+
+.mainHeadDesc .well h4 {
+    color: white;
+    padding-top: 15px;
+    font-size: 1.4em;
+    text-align: center;
+    transition: 0.5s;
+}
+
+.mainHeadDesc .well img {
+
+    transition: 0.5s;
+}
+
+.mainHeadDesc .well:hover h4 {
+    padding-right: 30px;
+    transition: 0.5s;
+}
+
+.mainHeadDesc .well:hover img {
+    margin-left: 30px;
+    transition: 0.5s;
+}
+
+.otherPannel {
+    margin-top: -15px;
+}
+
+.otherPannel h4 {
+    text-align: center;
+    font-size: 1.1em;
+}
+
+.otherPannel a {
+    color: white;
+    text-decoration: none;
+}
+
+.otherPannel .well {
+    background-color: #1C2833;
+    padding: 0px 10px;
+}
+
+.requestStat a {
+    color: #1C2833;
+    text-decoration: none;
+}
+
+.requestStat .well {
+    background-color: #1C2833;
+    padding: 5px;
+    margin-top: 0px;
+    margin-bottom: 5px;
+}
+ 
+.actionButtonRequest h4 {
+    margin: 0px;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 1em;
+}
+
+.actionButtonRequest {
+    background-color: white;
+    padding: 5px;
+    margin-top: 22px;
+    border-radius: 5px;
+}
+
+.requestStat .well .iconCal i {
+    color: white;
+    font-size: 2em;
+    padding: 15px;
+}
+
+.requestContent h4 {
+    color: white;
+    text-align: left;
+    font-size: 1.1em;
+}
+
+.requestStat .well h5 {
+    color: white;
+    text-align: left;
+    font-size: 0.9em;
+}
+
+.requestStat .well p {
+    color: white;
+    margin: 5px;
+    font-size: 0.8em;
+}
+
+.iconDel i {
+    font-size: 1.2em;
+    margin-top: 10px;
+}
+
+.iconDel a {
+    color: white;
+    text-decoration: none;
+}
+
+.itemContent {
+    padding-left: 10px;
+    margin-top: -10px;
+}
+
+.requestIndexPannel h4 {
+    text-align: center;
+    color: white;
+}
+
+.requestIndexPannel a {
+    text-decoration: none;
+}
+
+.requestIndex {
+    padding-left: 50px;
+}
+
+.requestIndex h4 {
+    text-align: center;
+    color: white;
+}
+
+.requestIndex a {
+    text-decoration: none;
+}
+
+.bodyComponentReq h3 {
+    margin: 0px;
+    text-align: center;
+    font-size: 1.3em;
+    margin-top: -20px;
+    padding-bottom: 15px;
+
+}
+
+.bodyComponentReq h6 {
+    margin: 0px;
+    font-weight: bold;
+    font-size: 1em;
+    margin-top: -15px;
+    padding-bottom: 20px;
+
+}
+
+.reqestTabGuest {
+    background-color: #1C2833;
+    height: 180px;
+    width: 220px;
+    margin-left: -30px;
+    transition: 0.8s;
+    border-top-left-radius: 30px;
+}
+
+.reqestTabGuest h4 {
+    padding-top: 40px;
+}
+
+.reqestTabGuest:hover {
+    transform: scale(1.1);
+    transition: 0.5s;
+}
+
+.reqestTabEntry {
+    background-color: #1C2833;
+    height: 180px;
+    width: 220px;
+    position: relative;
+    margin-top: -60px;
+    border: 7px solid white;
+    margin-left: 110px;
+    z-index: 1;
+    transition: 0.8s;
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+
+.reqestTabEntry h4 {
+    padding-top: 60px;
+}
+
+.reqestTabVeh {
+    background-color: #1C2833;
+    height: 180px;
+    width: 220px;
+    position: relative;
+    margin-top: -80px;
+    margin-left: -30px;
+    z-index: 0;
+    transition: 0.8s;
+    border-bottom-left-radius: 30px;
+}
+
+.reqestTabVeh h4 {
+    padding-top: 120px;
+}
+
+.reqestTabVeh:hover {
+    transform: scale(1.1);
+    transition: 0.5s;
+}
+
+.reqestTabGate {
+    background-color: #1C2833;
+    height: 180px;
+    width: 220px;
+    position: relative;
+    margin-top: -190px;
+    margin-left: 250px;
+    z-index: 0;
+    transition: 0.8s;
+    border-bottom-right-radius: 30px;
+}
+
+.reqestTabGate h4 {
+    padding-top: 120px;
+}
+
+.reqestTabGate:hover {
+    transform: scale(1.1);
+    transition: 0.5s;
+}
+
+.reqestTabVendor {
+    background-color: #1C2833;
+    height: 180px;
+    width: 220px;
+    position: relative;
+    margin-top: -420px;
+    margin-left: 250px;
+    z-index: 0;
+    transition: 0.8s;
+    border-top-right-radius: 30px;
+}
+
+.reqestTabVendor h4 {
+    padding-top: 40px;
+}
+
+.reqestTabVendor:hover {
+    transform: scale(1.1);
+    transition: 0.5s;
+}
+
+.reqestTabName {
+    background-color: #1C2833;
+    height: 180px;
+    width: 220px;
+    position: relative;
+    margin-top: -60px;
+    margin-left: -180px;
+    z-index: 0;
+    border: 7px solid white;
+    transition: 0.8s;
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+}
+
+.reqestTabName h4 {
+    padding-top: 60px;
+}
+
+.reqestTabName:hover {
+    transform: scale(1.1);
+    transition: 0.5s;
+}
+
+.reqestTabIdCard {
+    background-color: #1C2833;
+    height: 180px;
+    width: 220px;
+    position: relative;
+    margin-top: -180px;
+    margin-left: 400px;
+    z-index: 0;
+    border: 7px solid white;
+    transition: 0.8s;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+
+.reqestTabIdCard h4 {
+    padding-top: 60px;
+}
+
+.reqestTabIdCard:hover {
+    transform: scale(1.1);
+    transition: 0.5s;
+}
+
+.tab-pane h4 {
+    margin-top: -20px;
+}
+
+.claimSidePan {
+    margin-top: -25px;
+}
+
+.uploadReceipt {
+    height: 200px;
+    width: 190px;
+
+    border: 2px solid white;
+    border-style: dotted;
+}
+
+.uploadReceipt input {
+    margin-top: 62px;
+}
+
+.uploadReceipt p {
+    text-align: center;
+    padding-top: 60px;
+}
+
+.actionButtonClaim {
+    background-color: white;
+    padding: 2px;
+    margin-top: 22px;
+    border-radius: 5px;
+}
+
+.actionButtonClaim h4 {
+    margin: 5px;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 1em;
+}
+
+.dayFormat p {
+    margin: 0px;
+}
+
+.dateFormat p {
+    float: right;
+    margin: 0px;
+}
+
+.appSore .well {
+    background-color: #1C2833;
+    padding: 0px 10px;
+}
+
+.appSore .well h4 {
+    color: white;
+    font-size: 1.1em;
+    text-align: center;
+}
+
+.appComponent a {
+    text-decoration: none;
+    color: white;
+}
+
+.appsHead h5 {
+    margin-top: 0px;
+    font-weight: bold;
+    padding-left: 10px;
+}
+
+.favAppsStore .well {
+    background-color: #1C2833;
+    padding: 30px 10px;
+    transition: 0.8s;
+    cursor: pointer;
+}
+
+.tab-content a {
+    color: white;
+    text-decoration: none;
+}
+
+.favAppsStore .well i {
+    font-size: 2.5em;
+    padding-left: 45px;
+    transition: 0.5s;
+}
+
+.favAppsStore .well p {
+    padding-top: 10px;
+    text-align: center;
+    margin: 0px;
+    transition: 0.5s;
+}
+
+.favAppsStore .well:hover {
+    background-color: red;
+    color: white;
+    transition: 0.5s;
+}
+
+.favAppsStore .well:hover i {
+    transform: scale(1.1);
+    transition: 0.5s;
+}
+
+.favAppsStore .well:hover p {
+    transform: scale(1.1);
+    transition: 0.5s;
+}
+
+#show_time {
+    color: white;
+    padding-top: 20px;
+    text-align: right;
+}
+
+.tabPaneClaims {
+    margin-top: -20px;
+}
+
+#ConvDetails {
+
+    color: white;
+    padding: 5px;
+
+}
+
+#ConvDetails h5 {
+    margin: 3px;
+}
+
+.dashViewWidget .well {
+    background-color: #1c2833;
+    padding: 10px 10px 0px 10px;
+    margin-top: -15px;
+}
+
+.detailAppStore {
+    color: white;
+    text-align: center;
+}
+
+.detailAppStore i {
+    color: white;
+    text-align: center;
+    font-size: 2em;
+}
+
+.detailAppStore h3 {
+    color: white;
+    text-align: center;
+    font-size: 1.3em;
+    margin-top: 10px;
+}
+
+.detailAppStore p {
+    color: white;
+    text-align: center;
+    font-size: 0.8em;
+}
+.nullAddress p
+{
+    font-size: 1em;
+    text-align:center;
+    padding-bottom: 10px;
+    padding-top: 30px;
+}
+

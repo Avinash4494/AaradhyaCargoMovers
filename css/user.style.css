@@ -1,0 +1,1101 @@
+/*NAVIGATION*/
+body {
+    padding: 0px;
+    margin: 0px;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+ 
+
+
+img.navbarLogo {
+    height: 70px;
+    width: 200px;
+}
+
+.header-contact {
+    height: 40px;
+    padding: 00px 5px 00px 15px;
+    background-color: red;
+}
+
+.header-contact h4 {
+    font-size: 1em;
+    color: white;
+    font-family: Asap;
+    padding-top: 2px;
+    letter-spacing: 1px;
+}
+
+.header-contact a {
+    color: white;
+    text-decoration: none;
+}
+
+.header-contact a:hover {
+    color: white;
+    text-decoration: none;
+}
+
+.universalButton {
+    background-color: white;
+    color: red;
+    border: none;
+    padding: 5px;
+    border-radius: 0px;
+    font-size: 1em;
+    width: 100%;
+    margin-top: 5px;
+    text-align: center;
+    font-family: Asap;
+}
+
+img.navbarLogo {
+    height: 60px;
+    width: 200px;
+}
+
+.header-icon {
+    padding-top: 2px;
+    padding-left: 55px;
+}
+
+.header-icon i {
+    margin: 10px;
+    font-size: 1.2em;
+}
+
+/*NAVIGATION*/
+/*LOGIN COMPONENT*/
+.wrapperComponentLogin {
+    
+   
+    font-family: Asap;
+    height: 100%;
+    padding: 20px 40px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-image: url(../image/a-12.png);
+}
+.overlayColor
+{
+  
+    position: absolute;
+    height: 525px;
+    width: 100%;
+}
+.loginPannelUser .well {
+    border: none;
+    background-color:white;
+   box-shadow: 5px 10px 60px 2px rgba(250, 250, 250, 0.9);
+ 
+}
+
+.sectionHead h2 {
+    margin: 0px;
+    font-size: 3em;
+    text-align: center;
+}
+
+.sectionHead h4 {
+    margin: 0px;
+    font-size: 2em;
+    padding-bottom: 15px;
+    text-align: center;
+}
+
+.sectionHead h5 {
+    margin: 0px;
+    padding-top: 20px;
+    text-align: center;
+    padding-bottom: 35px;
+}
+
+.forgotPass h5 {
+    margin: 0px;
+    padding-top: 20px;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.forgotPass a {
+    color: red;
+}
+
+
+
+.formSectionLogin label {
+    font-size: 0.9em;
+    letter-spacing: 2px;
+}
+
+.formSectionLogin input {
+    border: 1px solid red;
+    border-radius: 0px;
+    padding: 20px;
+    font-size: 1.2em;
+}
+
+.formSectionLogin select {
+    border: 1px solid red;
+    border-radius: 0px;
+    height: 43px;
+    font-size: 1em;
+}
+
+.formSectionRegis input {
+    border: 1px solid red;
+    border-radius: 0px;
+    padding: 20px;
+    font-size: 1em;
+}
+
+.formSectionRegis select {
+    border: 1px solid red;
+    border-radius: 0px;
+    height: 43px;
+    font-size: 1em;
+}
+
+.actionButtonIcons {
+    background-color: red;
+    border-radius: 5px;
+    border: none;
+    font-family: Asap;
+    padding: 7px 7px;
+    color: white;
+    width: 100%;
+    margin-top: 10px;
+    text-align: center;
+}
+
+.footerSection {}
+
+.WrapperLogoReg a {
+    color: #1c2833;
+    text-align: center;
+    text-decoration: none;
+}
+
+/*LOGIN COMPONENT*/
+/*REGISTER COMPONENT*/
+.sectionRegis h4 {
+    margin: 0px;
+    font-size: 2em;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+.sectionRegis h5 {
+    margin: 0px;
+    padding-top: 0px;
+    text-align: center;
+    padding-bottom: 15px;
+}
+
+.formSectionRegis .well {
+    padding: 30px;
+    border: 1px solid #FDCEC4;
+
+}
+
+h5.subHeading {
+    font-weight: bold;
+
+}
+
+.formSectionRegis .well span {
+    font-weight: bold;
+    color: red;
+    padding-left: 5px;
+
+}
+
+.formSectionRegis label {
+    font-size: 0.9em;
+    letter-spacing: 1px;
+    font-weight: normal;
+}
+
+.pagginWidget h5 {
+    text-align: center;
+    color: red;
+}
+
+.pagginNum {
+    height: 50px;
+    width: 50px;
+    margin-left: 70px;
+    border-radius: 50%;
+    border: 3px solid red;
+}
+
+.pagginNum h4 {
+    font-weight: bold;
+    padding-left: 17px;
+    padding-top: 3px;
+    color: red;
+}
+
+.pagginNumUn {
+
+    margin-left: 70px;
+    padding-top: 10px;
+    padding-bottom: 2px;
+
+}
+
+.pagginNumUn h4 {
+    font-weight: bold;
+    padding-left: 15px;
+    color: #CCD1D1;
+    padding-top: 3px;
+}
+
+.pagginNumFull {
+    height: 50px;
+    width: 50px;
+    margin-left: 70px;
+    border-radius: 50%;
+    background-color: red;
+    margin-top: -10px;
+}
+
+.pagginNumFull h4 {
+    font-weight: bold;
+    padding-left: 20px;
+    padding-top: 15px;
+    color: white;
+}
+
+.pagginWidgetUn h5 {
+    text-align: center;
+    color: #CCD1D1;
+}
+
+.verticalContact {
+    height: 4px;
+    background-color: red;
+    width: 170px;
+    position: absolute;
+    margin-top: 23px;
+    margin-left: -100px;
+}
+
+.verticalAccount {
+    height: 4px;
+    background-color: red;
+    width: 170px;
+    position: absolute;
+    margin-top: 23px;
+    margin-left: -100px;
+}
+
+/*REGISTER COMPONENT*/
+/*USER DASHBOARD*/
+.dashWidgetTop .well {
+    border: none;
+    background-color: white;
+    padding-top: 20px;
+
+}
+
+.coy_profile_logo img {
+    border-radius: 50%;
+    height: 170px;
+    width: 170px;
+    margin-left: 20px;
+}
+
+.coy_profile img {
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    height: 150px;
+    width: 150px;
+    margin-left: 10px;
+}
+
+.coy_profile h5 {
+    color: #1C2833;
+    line-height: 20px;
+    font-size: 1em;
+    text-align: center;
+}
+
+.dashWidgetBottom .well {
+    padding: 0px;
+}
+
+.listItemsNav {
+    background-color: #1c2833;
+    padding-bottom: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.contentComp a {
+    color: white;
+    text-decoration: none;
+}
+
+.contentComp {
+    margin-top: -30px;
+}
+
+.listItemsNav h5 {
+    color: white;
+    padding: 10px;
+    margin: 0px;
+    letter-spacing: 1px;
+    font-size: 1em;
+    transition: 0.5s;
+    cursor: pointer;
+}
+
+.listSliderComp {
+    height: 25px;
+    width: 25px;
+    background-color: transparent;
+    transform: rotate(45deg);
+    margin-left: 210px;
+    margin-top: -30px;
+    margin-right: -40px;
+    transition: 0.3s;
+}
+
+.listItemsNav:hover h5 {
+    padding-left: 20px;
+    transition: 0.5s;
+    background-color: red;
+}
+
+.listItemsNav:hover .listSliderComp {
+    margin-left: 185px;
+    transition: 0.5s;
+    background-color: white;
+}
+
+.left_logo img {
+    height: 50px;
+    width: 170px;
+    margin-top: 5px;
+}
+
+.actionButtonIconsCogs {
+    background-color: red;
+    border-radius: 20px;
+    border: none;
+    font-family: Asap;
+    padding: 10px;
+    margin-top: 13px;
+    margin-left: 20px;
+    color: white;
+    text-align: center;
+}
+
+.left-topHeading .profileCircleDrop img {
+    height: 45px;
+    width: 45px;
+    margin-top: 8px;
+    border-radius: 50%;
+}
+
+.right-topHeading h5 {
+    color: white;
+    font-size: 1.2em;
+}
+
+.right-topHeading h6 {
+    color: white;
+    letter-spacing: 1px;
+
+}
+
+.nameString {
+    background-color: red;
+    height: 35px;
+    width: 35px;
+    border-radius: 50%;
+    color: white;
+    margin-top: 13px;
+    padding-top: 8px;
+    padding-left: 8px;
+    letter-spacing: 1px;
+    margin-left: 50px;
+}
+
+.dropdown-menu {
+    margin-left: -170px;
+    padding: 0px;
+    width: 250px;
+    background-color: #1C2833;
+    color: white;
+    border-radius: 0px;
+    box-shadow: 0px 10px 20px 6px rgba(243, 234, 232, 0.5);
+    margin-top: 15px;
+}
+
+.dropdown-menu .profileCircleDropdown img {
+    height: 40px;
+    width: 40px;
+    margin-top: 8px;
+    border-radius: 50%;
+    margin-left: 15px;
+}
+
+.profileAnchor {
+    padding-top: 25px;
+}
+
+.profileAnchor h5 {
+    padding-left: 15px;
+}
+
+.profileAnchor a {
+    color: white;
+    text-decoration: none;
+    transition: 0.7s;
+    cursor: pointer;
+}
+
+.profileAnchor .editProfile {
+    padding-bottom: 15px;
+}
+
+.profileAnchor .editProfile:hover a {
+    color: #00B8E0;
+}
+
+.profileAnchor .logout {
+    background-color: #1C2833;
+    padding: 3px;
+    overflow: hidden;
+}
+
+.profileAnchor .logout:hover {
+    background-color: red;
+    color: white;
+    transition: 0.5s;
+}
+
+.profileAnchor .logout:hover a {
+    color: white;
+    transition: 0.5s;
+}
+
+.dashWidget .well {
+    margin-top: 10px;
+}
+
+.logoutFrame {
+    margin-top: 0px;
+}
+
+.paggignation {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.paggignation a {
+    color: #1c2833;
+    text-decoration: none;
+}
+
+.paggignation span {
+    color: red;
+    font-size: 1em;
+}
+
+.leftPannel {
+    padding-top: 65px;
+}
+
+.otherPannel .well {
+    padding: 5px;
+    background-color: #1c2833;
+}
+
+.otherPannel a {
+    color: white;
+    text-decoration: none;
+}
+
+.otherPannel .well h4,
+p {
+    font-size: 1em;
+    color: white;
+    text-align: center;
+}
+
+#show_time {
+    color: white;
+    padding-top: 20px;
+    text-align: right;
+}
+
+.actionButtonCreate {
+    background-color: red;
+    border-radius: 5px;
+    border: none;
+    font-family: Asap;
+    padding: 7px 7px;
+    color: white;
+    width: 100%;
+    letter-spacing: 1px;
+    text-align: center;
+}
+
+.createWidget .well {
+    padding: 5px;
+    margin-top: 20px;
+     
+}
+
+.dashWidgetSmall .well i {
+    font-size: 4em;
+    padding-top: 15px;
+}
+
+.dashWidgetSmall .well h3 {
+    font-size: 2.5em;
+    text-align: center;
+}
+
+.dashWidgetSmall .well h4 {
+    letter-spacing: 2px;
+}
+
+.dashWidgetSmall .well h5 {
+    font-size: 1.5em;
+    padding-top: 25px;
+    text-align: right;
+}
+
+.widgetShipmentComp .well {
+    padding: 0px 20px 0px 20px;
+background-color: white;
+
+}
+
+.widgetShipmentComp .well p {
+    color: #1c2833;
+    font-size: 0.9em;
+    padding-top: 10px;
+    text-align: left;
+
+}
+
+.widgetShipmentDiv h4 {
+    margin: 0px;
+    font-size: 1em;
+    padding-bottom: 10px;
+    font-weight: bold;
+}
+
+.widgetShipmentDiv label {
+    font-weight: normal;
+    font-size: 0.8em;
+    background-color: white;
+    margin-bottom: -4px;
+}
+
+.widgetShipmentDiv input {
+    border-radius: 0px;
+    padding: 20px;
+    margin-top: -5px;
+    margin-bottom: -5px;
+    border: 1px solid #1c2833;
+}
+
+.widgetShipmentDiv select {
+    border-radius: 0px;
+    height: 43px;
+    margin-top: -5px;
+    margin-bottom: -5px;
+    border: 1px solid #1c2833;
+}
+
+.widgetShipmentDiv span {
+    color: red;
+    padding-left: 2px;
+}
+.widgetShipmentDiv #AllFields
+{
+	color: red;
+	margin: 0px;
+	font-size: 0.8em;
+	text-align: center;
+}
+.ButtonCreate {
+    background-color: red;
+    border-radius: 5px;
+    border: none;
+    font-family: Asap;
+    padding: 7px 7px;
+    color: white;
+    width: 100%;
+    margin-top: -20px;
+    margin-bottom: -15px;
+    letter-spacing: 1px;
+    text-align: center;
+}
+
+.pannelWidget .well {
+    background-color: #1c2833;
+    padding: 20px 20px 5px 20px;
+    margin-bottom: 5px;
+}
+
+.pannelWidget .well p {
+    color: white;
+    text-align: left;
+    font-size: 0.8em;
+    letter-spacing: 1px;
+
+}
+
+.pannelWidget .well h6 {
+    color: white;
+
+}
+
+.emptyBox .well {
+    text-align: center;
+    background-color: transparent;
+}
+
+.widgetComp .well {
+    padding: 10px 10px 0px 10px;
+}
+
+.graphComp .well {
+    padding: 10px 10px 0px 10px;
+}
+
+ 
+
+.dashWidgetSmall .well {
+    background-color: #1c2833;
+    color: white;
+    margin-bottom: 10px;
+    cursor: pointer;
+    transition: 0.7s;
+    padding-bottom: 15px;
+}
+
+.dashWidgetSmall .well:hover {
+    background-color: red;
+    color: white;
+    transition: 0.9s;
+}
+
+.widgetComp .well a {
+    text-decoration: none;
+}
+
+/*USER DASHBOARD*/
+
+/*USER PROFILE*/
+.formUpdate .well {
+    margin-top: 20px;
+}
+
+.formUpdate .well label {
+    font-weight: normal;
+}
+
+.formUpdate .well input {
+    padding: 15px 30px 35px 20px;
+    border: 1px solid red;
+    border-radius: 0px;
+}
+
+.basicInfo {
+    padding-top: 5px;
+}
+
+.basicInfo h5 {}
+
+.basicInfo .list-group {
+    margin-bottom: 0px;
+}
+
+.basicInfoUpdate label {
+    font-weight: normal;
+}
+
+.basicInfoUpdate span {
+    color: red;
+    font-weight: bold;
+    padding-left: 5px;
+}
+
+p#passwordError {
+    margin-top: -20px;
+}
+
+p#allFields {
+    margin: 0px;
+}
+
+.formUpdate input {
+    border: 1px solid red;
+    padding: 20px;
+    border-radius: 0px;
+}
+
+.formUpdate select {
+    border: 1px solid red;
+    height: 45px;
+    border-radius: 0px;
+}
+
+.formUpdate label {
+    font-size: 0.9em;
+    background-color: white;
+    margin: 0px;
+    padding: 0px 10px;
+    margin-left: 5px;
+    position: relative;
+    margin-bottom: -10px;
+}
+
+.formUpdate h5 {
+    font-weight: bold;
+}
+
+.errorComp {
+    margin-top: -160px;
+}
+
+#errorBox .well {
+    padding: 5px;
+    background-color: red;
+}
+
+#validBox .well {
+    padding: 5px;
+    background-color: green;
+}
+
+.errorComp .well p {
+    padding-top: 7px;
+    letter-spacing: 1px;
+    color: white;
+}
+
+#errorBox {
+    display: none;
+}
+
+#validBox {
+    display: none;
+}
+
+.errorComp {
+    position: relative;
+    margin-left: -20px;
+    animation: errorAnim 1.5s;
+}
+
+.errorComp {
+    animation-timing-function: linear;
+}
+
+@keyframes errorAnim {
+    from {
+        left: -50px;
+        opacity: 0;
+    }
+
+    to {
+        left: 0px;
+        opacity: 1;
+    }
+}
+
+#checkPassword {
+    display: none;
+    color: #000;
+    position: relative;
+    padding: 20px;
+    margin-top: 50px;
+}
+
+#checkPassword .well p {
+
+    text-align: left;
+}
+
+#checkPassword .well {
+    background-color: white;
+    border: 1px solid #FDCEC4;
+    padding: 10px;
+}
+
+.valid {
+    color: green;
+}
+
+.valid:before {
+    position: relative;
+    content: "✔";
+    padding-right: 10px;
+}
+
+.invalid {
+    color: red;
+}
+
+.invalid:before {
+    position: relative;
+    content: "✖";
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+/*USER PROFILE*/
+
+/*paggination*/
+
+
+.pagination {
+    margin-left: 40px;
+    margin-top: 15px;
+    margin-bottom: -20px;
+
+}
+
+.pagination a {
+    color: white;
+    float: left;
+    font-size: 1em;
+    padding: 4px 16px;
+    text-decoration: none;
+    background-color: red;
+    border: 1px solid red;
+    margin-left: 5px;
+    font-weight: bold;
+    margin-right: 5px;
+}
+
+.pagination h6 {
+    color: red;
+    float: left;
+    font-size: 0.9em;
+    padding: 4px 00px;
+    text-decoration: none;
+    background-color: transparent;
+    margin-top: 10px;
+}
+
+.pagination p {
+    color: white;
+    font-size: 0.5em;
+}
+
+.pagination i {
+    color: white;
+    font-size: 1em;
+    padding: 4px 0px;
+}
+
+.pagination a.active {
+    background-color: white;
+    color: black;
+    transition: 0.3s;
+    border: 1px solid red;
+}
+
+.pagination a:hover:not(.active) {
+    background-color: red;
+    color: white;
+    transition: 0.5s;
+}
+
+.pagination a:first-child {
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+
+.pagination a:last-child {
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+/*paggination*/
+
+.ordered {
+    height: 50px;
+    width: 50px;
+    background-color: #D5D4D4;
+    border-radius: 50%;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+.ordered i {
+    font-size: 1.5em;
+    padding-top: 15px;
+    color: white;
+    padding-left: 15px;
+}
+
+.ordered h5 {
+    padding-top: 15px;
+    text-align: center;
+    color: #D5D4D4;
+
+    letter-spacing: 1px;
+}
+
+.orderStatus li.list-group-item {
+    font-size: 0.9em;
+    padding: 5px 10px;
+}
+
+#orderedLine,
+#dispatchLine,
+#shippingLine,
+#deliveredLine {
+    height: 5px;
+    width: 135px;
+    position: absolute;
+    margin-top: 25px;
+    margin-left: 50px;
+    background-color: #D5D4D4;
+}
+
+#orderedLine i,
+#dispatchLine i,
+#shippingLine i {
+    font-size: 1.7em;
+    position: absolute;
+    margin-top: -10px;
+    margin-left: 113px;
+    color: transparent;
+
+}
+
+.orderPannel span {
+    font-size: 0.7em;
+    margin-top: 0px;
+}
+ .widgetOuter .well {
+    background-color: #FAFAFA;;
+     padding: 10px;
+     padding-bottom: 0px;
+ }
+
+ .widgetTabs .well {
+     background-color: #1c2833;
+     margin-bottom: 10px;
+     padding: 10px;
+     text-align: center;
+ }
+  .widgetTabs .well  .actionButtonCreate
+{
+margin: 20px 0px;    
+}
+
+ .widgetTabs .well h4 {
+     padding: 20px;
+     color: white;
+ }
+
+ .widgetTabs .well p {
+     padding: 20px 10px;
+     color: white;
+ }
+
+ .widgetIcon {
+     height: 70px;
+     width: 70px;
+     margin-top: 30px;
+     border-radius: 50%;
+     background-color: white;
+ }
+
+ .widgetIcon i {
+     font-size: 2em;
+     padding-top: 20px;
+     color: red;
+     padding-left: 5px;
+ }
+
+ .widgetOuter h4 {
+     font-weight: bold;
+     padding: 10px;
+ }
+   .widgetSetup .well
+  {
+    background-color:white;
+    border:1px solid #1c2833;
+    margin-bottom: 10px;
+  }
+    .widgetSetup .well h5
+  {
+    font-weight: bold;
+    font-size: 1.1em;
+    padding-left: 5px;
+  }
+    .widgetSetup .well p
+  {
+    color: black;
+    text-align: left;
+    font-size: 0.9em;
+    padding-left: 5px;
+  }
+  .widgetIconSetup
+{
+     height: 50px;
+     width: 50px;
+     border-radius: 50%;
+     margin-top: 20px;
+     background-color: #f5f5f5;
+ }
+  .widgetIconSetup i {
+     font-size: 1.5em;
+     padding-top: 13px;
+     color: red;
+     padding-left: 17px;
+   }
+
+   .widgetPending h6
+{
+width: 100px;
+padding: 7px;
+font-size: 1.1em;
+margin-left: -10px;
+margin-top: -7px;
+background-color: white;
+}
+.sqarePending
+{
+  width: 23px;
+  height: 23px;
+ position: relative;
+ margin-top: -37px;
+ transform: rotate(45deg);
+ margin-left: 78px;
+background-color: #1c2833;
+}
+  .widgetHelp .well
+  {
+    background-color: white;
+    margin-bottom: 10px;
+    padding: 15px;
+    padding-bottom: 15px;
+  }
+  .widgetHelp .well h4
+  {
+    line-height: 30px;
+  }
+  .widgetHelp .well p
+  {
+    color: black;
+    text-align: left;
+  }
